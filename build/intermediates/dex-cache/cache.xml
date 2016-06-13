@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/appaspect-ankita/Desktop/File Manager HD /app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="b8bedab61b3b5238cd9a07d3b04449d7fecdbc3b">
+        <dex dex="/home/appaspect-ankita/Desktop/File Manager HD /app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-analytics-9.0.0_933af0d5b896909716fc7070f5dabb2b1097aa11/classes.dex" />
+    </item>
+    <item
+        jar="/home/appaspect-ankita/Desktop/File Manager HD /app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="0dc8ab07eeceda5e99b305c8069765056b6e5c9d">
+        <dex dex="/home/appaspect-ankita/Desktop/File Manager HD /app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-impl-9.0.0_0424d9c8db15a3240c59fb5ad547678fdcfecab4/classes.dex" />
+    </item>
+    <item
+        jar="/home/appaspect-ankita/Desktop/File Manager HD /app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="79e4b41db41d4dbbf364c7bd6aaeee5b876c9d8b">
+        <dex dex="/home/appaspect-ankita/Desktop/File Manager HD /app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-lite-9.0.0_dec6a4ae436a7f8031719666493a4081a212e4a2/classes.dex" />
+    </item>
+    <item
+        jar="/home/appaspect-ankita/Desktop/File Manager HD /app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="cc178928721f3222b3b06bdfbd9497378ccb9792">
+        <dex dex="/home/appaspect-ankita/Desktop/File Manager HD /app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-9.0.0_fb6c8756e9b908fde436b2a256cee94a1042a076/classes.dex" />
+    </item>
+    <item
+        jar="/home/appaspect-ankita/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.1/support-annotations-23.1.1.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="/home/appaspect-ankita/Desktop/File Manager HD /app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.1.1_2defab8c4680cf50355f4c3e22220d15fe05a16c/classes.dex" />
+    </item>
+    <item
+        jar="/home/appaspect-ankita/Desktop/File Manager HD /app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="6f65c144283b31b4b9a70e6e7aa4c4a1c897d4b8">
+        <dex dex="/home/appaspect-ankita/Desktop/File Manager HD /app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-9.0.0_473d4a1f94199233417a4599204cced60d6d174b/classes.dex" />
+    </item>
+    <item
+        jar="/home/appaspect-ankita/Desktop/File Manager HD /app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="ea4b54dcbfe5ac05efb0a314105f07258118d3a7">
+        <dex dex="/home/appaspect-ankita/Desktop/File Manager HD /app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-iid-9.0.0_a7ed833c6c961c6ad1d3c41159b8b196a698d2d2/classes.dex" />
+    </item>
+    <item
+        jar="/home/appaspect-ankita/Desktop/File Manager HD /app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="/home/appaspect-ankita/Desktop/File Manager HD /app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.1.1_9ab693a9d7465111f97e67ccc9eb340bef2e2e39/classes.dex" />
+    </item>
+    <item
+        jar="/home/appaspect-ankita/Desktop/File Manager HD /app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="42df48c7305b08b14fa0e84561091b0c24d70d26">
+        <dex dex="/home/appaspect-ankita/Desktop/File Manager HD /app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-common-9.0.0_bfff766bafd0c951a0fd93b571777e5d10dad512/classes.dex" />
+    </item>
+    <item
+        jar="/home/appaspect-ankita/Desktop/File Manager HD /app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/libs/internal_impl-23.1.1.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="/home/appaspect-ankita/Desktop/File Manager HD /app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.1.1_a41d9232373a07a28d2102e23a5045499ecacc41/classes.dex" />
+    </item>
+    <item
+        jar="/home/appaspect-ankita/Desktop/File Manager HD /app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="4ef8ab5fee042023018249474bc93bd4b2b9c17e">
+        <dex dex="/home/appaspect-ankita/Desktop/File Manager HD /app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-9.0.0_d15009d59f395d38a83c0bf03999476b2598ca06/classes.dex" />
+    </item>
+    <item
+        jar="/home/appaspect-ankita/Desktop/File Manager HD /app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="cd1c4078e811d9f4c3838cb5f164eee2d11aa72a">
+        <dex dex="/home/appaspect-ankita/Desktop/File Manager HD /app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_fe1c911c473d8f1801036cf0906a4cc6f813ccf4/classes.dex" />
+    </item>
+    <item
+        jar="/home/appaspect-ankita/Desktop/File Manager HD /app/libs/fast-md5.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="b411cf71be176cf89eea8a01b967857eeeea4116">
+        <dex dex="/home/appaspect-ankita/Desktop/File Manager HD /app/build/intermediates/transforms/dex/debug/folders/1000/2/fast-md5_6ddb6e8eeb6862f716159510e2745bf6af2566db/classes.dex" />
+    </item>
+    <item
+        jar="/home/appaspect-ankita/Desktop/File Manager HD /app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics-impl/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="373cd65725af2781d100ddc193c7d3f14464a774">
+        <dex dex="/home/appaspect-ankita/Desktop/File Manager HD /app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-analytics-impl-9.0.0_dd166fa020969b836026bfe1824ae850ce07ffd6/classes.dex" />
+    </item>
+    <item
+        jar="/home/appaspect-ankita/Desktop/File Manager HD /app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="2cb29455028e92e024bbad0d41c6ec772f2433d1">
+        <dex dex="/home/appaspect-ankita/Desktop/File Manager HD /app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-9.0.0_9e5dda9e8acc98b921fb00d9a915f0010495d558/classes.dex" />
+    </item>
+    <item
+        jar="/home/appaspect-ankita/Desktop/File Manager HD /app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="23eb505d9b76661d11a0ac63484535778c87f5c2">
+        <dex dex="/home/appaspect-ankita/Desktop/File Manager HD /app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_8d16bffe0fad5e31221937673fa62157268c933c/classes.dex" />
+    </item>
+    <item
+        jar="/home/appaspect-ankita/Desktop/File Manager HD /app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="1941832901fc4e7a93300b53762e9f65d7650b99">
+        <dex dex="/home/appaspect-ankita/Desktop/File Manager HD /app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-9.0.0_0eb4e3c8cbbbb0c121093221aa9c6101b9c21c58/classes.dex" />
+    </item>
+    <item
+        jar="/home/appaspect-ankita/Desktop/File Manager HD /app/build/intermediates/exploded-aar/com.android.support/multidex/1.0.1/jars/classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="/home/appaspect-ankita/Desktop/File Manager HD /app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-multidex-1.0.1_e2c66d4a2b84187753fee285e8c7208bb2b970a5/classes.dex" />
+    </item>
+
+</items>
