@@ -1,0 +1,135 @@
+{
+  "project_info": {
+    "project_number": "1011219259609",
+    "firebase_url": "https://admob-app-id-4955763704.firebaseio.com",
+    "project_id": "admob-app-id-4955763704",
+    "storage_bucket": "admob-app-id-4955763704.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1011219259609:android:ecb3086e904dcadf",
+        "android_client_info": {
+          "package_name": "com.calllog.notes.callreminder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1011219259609-3o30j5itdl2tp14dngld7u1k40jm02ff.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASh6Yw5VYPuaFFxO1Rk854A3oS95cL9jQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1011219259609:android:d74721633d0fc189",
+        "android_client_info": {
+          "package_name": "com.ToDoReminder.notes.LifeReminder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1011219259609-3o30j5itdl2tp14dngld7u1k40jm02ff.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASh6Yw5VYPuaFFxO1Rk854A3oS95cL9jQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1011219259609:android:13beb7b80553fcfb",
+        "android_client_info": {
+          "package_name": "com.heartrate.monitor.pulse.cardiograph"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1011219259609-3o30j5itdl2tp14dngld7u1k40jm02ff.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASh6Yw5VYPuaFFxO1Rk854A3oS95cL9jQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1011219259609:android:91dc9ed05f3d7ca5",
+        "android_client_info": {
+          "package_name": "com.filemanager.sdexplorer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1011219259609-3o30j5itdl2tp14dngld7u1k40jm02ff.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASh6Yw5VYPuaFFxO1Rk854A3oS95cL9jQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
