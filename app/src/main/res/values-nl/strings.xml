@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+     <string name="app_name">File Manager HD (Explorer)</string>
+     
+     <string name="Explorer">(Explorer)</string>
+    
+  
+      
+     <string name="menu_settings">instellingen</string>
+    <string name="About_US">over ons</string>
+    <string name="Info">Info</string>
+    <string name="No_Internet_Connection">Geen Internetverbinding</string>
+    <string name="OK">OK</string>
+    <string name="Cancel">annuleren</string>
+       <string name="Send">sturen</string>
+    <string name="Rate_This_App">Beoordeel deze applicatie</string>
+    
+    <string name="action_save">besparen</string>
+	<string name="File_has_been_Saved">Bestand is opgeslagen</string>
+	<string name="Could_not_save_the_file">Kan het bestand niet opslaan</string>
+	<string name="There_are_no_email_clients_installed.">Er zijn geen e-mail clients geïnstalleerd.</string>
+    
+	
+     <string name="Paste_Data">plak gegevens</string>
+    <string name="paste">plakken</string>
+    <string name="home">huis</string>
+    <string name="up">omhoog</string>
+    <string name="Back">terug</string>
+    <string name="Next">volgende</string>
+    <string name="Search">zoeken</string>
+    <string name="Faves">Uitdagen</string>
+    <string name="Create">creëren</string>
+    <string name="Sort">sorteren</string>
+    <string name="Refresh">verversen</string>
+    <string name="Details_Folder">Details</string>
+    <string name="Open_Folder">Open </string>
+    <string name="Copy_Folder">kopiëren </string>
+    <string name="Delete_Folder">verwijderen</string>
+    <string name="Move_Folder">Verplaatsen (Cut) </string>
+    <string name="Rename_Folder">andere naam geven </string>
+    <string name="Bookmark">bladwijzer</string>
+    <string name="Zip_Folder">Zip Folder</string>
+    <string name="Paste_Folder">Plakken in Folder</string>
+    <string name="Name">naam:</string>
+    <string name="path">pad:</string>
+    <string name="size">maat:</string>
+    <string name="Files">bestanden:</string>
+    <string name="Folder">map:</string>
+    <string name="Items">artikelen:</string>
+    <string name="Modified">gewijzigd:</string>
+    <string name="Permissions">toestemmingen:</string>
+    <string name="Search_for_a_file"> Zoeken naar een bestand</string>
+    <string name="Sort_Completed">Sorteer Voltooide ...</string>
+    <string name="Created">gemaakt</string>
+    <string name="New_folder_was_not_created">Nieuwe map is niet gemaakt</string>
+    <string name="Create_New_Directory">Maken Nieuw Directory</string>
+    <string name="items">artikelen</string>
+    <string name="Extract_here">extract hier</string>
+    <string name="Compress_here">comprimeren hier</string>
+    <string name="Share">aandeel</string>
+    <string name="Add_Bookmark">Voeg bladwijzer</string>
+    <string name="Bookmark_Added">Bookmark toegevoegd ...</string>
+    <string name="No_Bookmark_Added">Geen Bookmark toegevoegd ..</string>
+    <string name="bookmarklist">Bookmark List</string>
+    <string name="Bookmark_name_updated">Bookmark naam bijgewerkt ...</string>
+    <string name="Bookmark_Already_done">Bookmark Is al gedaan ...</string>
+    <string name="Searching"> Searching...</string>
+    <string name="Searching_current_file_system"> Searching huidige bestandssysteem ...</string>
+    <string name="Copying">kopiëren</string>
+    <string name="Copying_file"> Het kopiëren van bestanden ...</string>
+    <string name="Unzipping">  Unzipping</string>
+    <string name="Unpacking_zip_file_please_wait"> Uitpakken zip-bestand even geduld ...</string>
+    <string name="Zipping">  zippen</string>
+    <string name="Zipping_folder">  Zipping folder...</string>
+    <string name="Deleting">  schrappen</string>
+    <string name="Deleting_files">Verwijderen van bestanden ...</string>
+    <string name="Could_not_find">Kon het niet vinden </string>
+    <string name="Found"> gevonden</string>
+    <string name="files"> file(s)</string>
+    <string name="Copy_pasted_failed">Kopiëren geplakt is mislukt</string>
+    <string name="File_successfully_copied_and_pasted"> Bestand met succes gekopieerd en geplakt</string>
+    <string name="Cannot_read_folder_due_to_permissions">Kan niet lezen map vanwege permissies</string>
+    <string name="Sorry_could_not_find_a_pdf_viewer"> Sorry, kan een pdf-viewer niet vinden</string>
+    <string name="Sorry_could_not_find_a_Document_viewer"> Sorry, kan een document viewer niet vinden</string>
+    <string name="Sorry_could_not_find_a_HTML_viewer"> Sorry, kan een HTML-viewer niet vinden</string>
+    <string name="Sorry_could_not_find_anything"> Sorry, kon niets vinden </string>
+    <string name="to_open"> te openen </string>
+    <string name="Press_back_again_to_quit"> Druk nogmaals terug om te stoppen.</string>
+    <string name="Multi_select_is_now_off"> Multi-select is nu uitgeschakeld</string>
+    <string name="Please_enter_the_name">Vul de naam</string>
+    <string name="Empty">leeg</string>
+    <string name="Select_option">Selecteer Optie</string>
+    <string name="Edit">uitgeven</string>
+    <string name="Delete">verwijderen</string>
+    <string name="Rename">andere naam geven</string>
+    <string name="New_Name">nieuwe naam</string>
+    <string name="Edit_Bookmark_Name">Bewerk Bookmark Naam</string>
+    <string name="Remove_Bookmark">verwijderen bladwijzer</string>
+    <string name="Remove_Bookmark_Successfully">Verwijderen Bookmark Succesvol</string>
+    <string name="Bookmark_Confimation">Verwijderen Bookmark Bevestiging</string>
+    <string name="Are_you_sure_you_want_Bookmark">Weet u zeker dat u wilt Bookmark verwijderen?</string>
+    <string name="Deleted_Bookmark_Successfully">Verwijderen Bookmark Succesvol</string>
+    <string name="Delete_Confimation">Verwijdering bevestiging</string>
+    <string name="Are_you_sure_you_want_delete">Weet u zeker dat u wilt verwijderen?</string>
+    <string name="Deleted_Successfully">succesvol verwijderd</string>
+    <string name="hidden"> verborgen</string>
+
+    <!--
+          ***************************
+             Strings for the 'Compressing' and 'Extracting' feature
+          ***************************
+    -->
+    <string name="compressing_success">Item succes gecomprimeerd</string>
+    <string name="compressing_error">Kon het item niet te comprimeren</string>
+    <string name="compress_into_archive">Comprimeren in archief:</string>
+    <string name="extracting_success">Punt gehaald succes</string>
+    <string name="extracting_error">Kon niet het item uit te pakken</string>
+    <string name="extract_into_folder">Uit te pakken in de map:</string>
+    <string name="extract_title">Selecteer de map aan te pakken in</string>
+    <string name="extract_button">extract hier</string>
+    <string name="extracting">Het uitpakken van bestanden ...</string>
+    <string name="compressing">Comprimeren van bestanden ...</string>
+    <string name="warning_overwrite">Bestand%s bestaat. Wilt u het overschrijven?</string>
+    <string name="change_file_extension">Wilt u de bestandsextensie wijzigen?</string>
+    <string name="deletefail">kon het bestand niet verwijderen</string>
+    
+    
+
+    <string name="MoreApps">meer Apps</string>
+   
+   <string name="ContactUS">Contacteer ons</string>
+    <string name="Contact_from">contact uit</string>
+    <string name="Share_App">Share App</string>
+      <string name="Share_Andoird">Android</string>
+       <string name="Share_Application">toepassing</string>
+    <string name="Share_App_subject">"ik hou"</string>
+    <string name="Share_App_Body_top">"
+hello,
+ik hou"</string>
+    <string name="Share_App_Body_middle">" door AppAspect Technologies Pvt. Ltd. Download dan vanaf volgende koppeling
+    "</string>
+    <string name="Share_App_Body_bottom">"
+        dank"</string>
+   
+
+    
+</resources>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+     >
+
+   -- add AdmobAdd into Preference -->
+    <com.filemanager.sdexplorer.CustomAdmobPreference android:layout="@layout/adview_layout_aboutus" />
+    
+    <PreferenceCategory android:title="@string/Info" >
+        <Preference
+            android:key="aboutus"
+            android:title="@string/About_US" >
+            <intent
+                android:action="android.intent.action.VIEW"
+                android:data="https://www.appaspecttechnologies.com" />
+        </Preference>
+        <Preference
+            android:key="contactus"
+            android:title="@string/ContactUS" >
+          
+        </Preference>
+        
+        <Preference
+            android:key="shareapps"
+            android:title="@string/Share_App" >
+          
+        </Preference>
+        <Preference
+            android:key="RateThisapp"
+            android:title="@string/Rate_This_App" >
+          
+        </Preference>
+        
+         <Preference
+            android:key="MoreApps"
+            android:title="@string/MoreApps" >
+           
+        </Preference>
+      
+    </PreferenceCategory>
+    
+
+</PreferenceScreen>

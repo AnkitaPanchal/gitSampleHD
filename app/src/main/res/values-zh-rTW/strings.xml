@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+     <string name="app_name">文件管理器HD（資源管理器）</string>
+     
+     <string name="Explorer">(資源管理器)</string>
+     
+   
+    <string name="menu_settings">設置</string>
+    <string name="About_US">关于我们</string>
+    <string name="Info">信息</string>
+    <string name="No_Internet_Connection">没有互联网连接</string>
+      <string name="OK">行</string>
+  <string name="Send">發送</string>
+    <string name="Cancel">取消</string>
+    <string name="Rate_This_App">對此應用</string>
+    
+    <string name="action_save">節省</string>
+	<string name="File_has_been_Saved">文件已保存</string>
+	<string name="Could_not_save_the_file">無法保存文件</string>
+	<string name="There_are_no_email_clients_installed.">有沒有安裝電子郵件客戶端。</string>
+    
+	
+    <string name="Paste_Data">粘貼數據</string>
+    <string name="paste">貼</string>
+    <string name="home">家</string>
+    <string name="up">上</string>
+    <string name="Back">後面</string>
+    <string name="Next">下</string>
+    <string name="Search">搜索</string>
+    <string name="Faves">收藏</string>
+    <string name="Create">創建</string>
+    <string name="Sort">分類</string>
+    <string name="Refresh">刷新</string>
+    <string name="Details_Folder">詳細信息</string>
+    <string name="Open_Folder">打開</string>
+    <string name="Copy_Folder">複製</string>
+    <string name="Delete_Folder">刪除 </string>
+    <string name="Move_Folder">移動（剪切） </string>
+    <string name="Rename_Folder">重命名 </string>
+    <string name="Bookmark">書籤</string>
+    <string name="Zip_Folder">Zip文件夾</string>
+    <string name="Paste_Folder">粘貼到文件夾</string>
+    <string name="Name">名:</string>
+    <string name="path">路徑:</string>
+    <string name="size">大小:</string>
+    <string name="Files">檔:</string>
+    <string name="Folder">夾:</string>
+    <string name="Items">項目:</string>
+    <string name="Modified">改性:</string>
+    <string name="Permissions">權限:</string>
+    <string name="Search_for_a_file"> 搜索文件</string>
+    <string name="Sort_Completed">排序完成...</string>
+    <string name="Created">創建</string>
+    <string name="New_folder_was_not_created">沒有創建新的文件夾</string>
+    <string name="Create_New_Directory"> 創建新目錄</string>
+    <string name="items">項目</string>
+    <string name="Extract_here">這裡提取</string>
+    <string name="Compress_here">壓縮這裡</string>
+    <string name="Share">共享</string>
+    <string name="Add_Bookmark">添加書籤</string>
+    <string name="Bookmark_Added">添加書籤...</string>
+    <string name="No_Bookmark_Added">沒有添加書籤。</string>
+    <string name="bookmarklist">書籤列表</string>
+    <string name="Bookmark_name_updated">更新書籤姓名...</string>
+    <string name="Bookmark_Already_done">已經做了書籤...</string>
+    <string name="Searching"> 搜索....</string>
+    <string name="Searching_current_file_system"> 搜索當前文件系統....</string>
+    <string name="Copying">複製</string>
+    <string name="Copying_file"> 複製文件...</string>
+    <string name="Unzipping">  解壓</string>
+    <string name="Unpacking_zip_file_please_wait">  解壓縮zip文件，請稍候。.</string>
+    <string name="Zipping">荏苒</string>
+    <string name="Zipping_folder">  zip壓縮文件夾...</string>
+    <string name="Deleting">  刪除</string>
+    <string name="Deleting_files">刪除文件。..</string>
+    <string name="Could_not_find">找不到</string>
+    <string name="Found"> 找到</string>
+    <string name="files"> 文件（S）</string>
+    <string name="Copy_pasted_failed">複製粘貼失敗</string>
+    <string name="File_successfully_copied_and_pasted"> 文件成功複製和粘貼</string>
+    <string name="Cannot_read_folder_due_to_permissions"> 由於權限無法讀取文件夾</string>
+    <string name="Sorry_could_not_find_a_pdf_viewer">  很抱歉，無法找到一個PDF閱讀器</string>
+    <string name="Sorry_could_not_find_a_Document_viewer"> 對不起，無法找到一個文件瀏覽器</string>
+    <string name="Sorry_could_not_find_a_HTML_viewer"> 很抱歉，無法找到HTML瀏覽器，</string>
+    <string name="Sorry_could_not_find_anything">  對不起，找不到任何東西 </string>
+    <string name="to_open">打開  </string>
+    <string name="Press_back_again_to_quit">再次按退出。</string>
+    <string name="Multi_select_is_now_off">  多選擇現在關閉</string>
+    <string name="Please_enter_the_name">請輸入名稱</string>
+    <string name="Empty">空的</string>
+    <string name="Select_option">選擇“選項”</string>
+    <string name="Edit">編輯</string>
+    <string name="Delete">刪除</string>
+    <string name="Rename">重命名</string>
+    <string name="New_Name">新名稱</string>
+    <string name="Edit_Bookmark_Name">編輯書籤名稱</string>
+    <string name="Remove_Bookmark">刪除書籤</string>
+    <string name="Remove_Bookmark_Successfully">移除收藏成功</string>
+    <string name="Bookmark_Confimation">刪除書籤確認</string>
+    <string name="Are_you_sure_you_want_Bookmark">您確定您要刪除的書籤嗎？</string>
+    <string name="Deleted_Bookmark_Successfully">移除收藏成功</string>
+    <string name="Delete_Confimation">刪除確認</string>
+    <string name="Are_you_sure_you_want_delete">您確定您要刪除嗎？</string>
+    <string name="Deleted_Successfully">刪除成功</string>
+    <string name="hidden"> 隱</string>
+
+    <!--
+          ***************************
+             Strings for the 'Compressing' and 'Extracting' feature
+          ***************************
+    -->
+    <string name="compressing_success">項目成功壓縮</string>
+    <string name="compressing_error">無法壓縮項目</string>
+    <string name="compress_into_archive">壓縮成歸檔:</string>
+    <string name="extracting_success">項目成功提取</string>
+    <string name="extracting_error">無法提取項目</string>
+    <string name="extract_into_folder">解壓到文件夾：</string>
+    <string name="extract_title">選擇文件夾解壓到</string>
+    <string name="extract_button">這裡提取</string>
+    <string name="extracting">解壓文件...</string>
+    <string name="compressing">壓縮文件....</string>
+    <string name="warning_overwrite">文件％s已存在。你想覆蓋它嗎？</string>
+    <string name="change_file_extension">你想改變文件擴展名？</string>
+    <string name="deletefail">無法刪除文件</string>
+    
+    
+    <string name="MoreApps">更多應用程序</string>
+   
+     <string name="ContactUS">聯繫我們</string>
+    <string name="Contact_from">聯繫從</string>
+    
+      <string name="Share_App">分享APP</string>
+        <string name="Share_Andoird">Android的</string>
+       <string name="Share_Application">應用</string>
+    <string name="Share_App_subject">"我喜歡"</string>
+    <string name="Share_App_Body_top">"
+你好，
+我喜歡 "</string>
+    <string name="Share_App_Body_middle">" 由AppAspect Technologies Pvt. Ltd.。請從下面的鏈接下載
+    "</string>
+    <string name="Share_App_Body_bottom">"
+        謝謝"</string>
+
+
+   
+
+</resources>

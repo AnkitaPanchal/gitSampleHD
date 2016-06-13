@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">مدير ملف HD (إكسبلورر)</string>
+     
+     <string name="Explorer">(مستكشف)</string>
+ 
+   <string name="menu_settings">إعدادات</string>
+    <string name="About_US">حول بنا</string>
+    <string name="Info">معلومات</string>
+    <string name="No_Internet_Connection">لا اتصال إنترنت</string>
+   <string name="OK">حسنا</string>
+      <string name="Send">إرسال</string>
+    <string name="Cancel">إلغاء</string>
+    <string name="Rate_This_App">قيم هذا التطبيق</string>
+    
+    <string name="action_save">حفظ</string>
+	<string name="File_has_been_Saved">تم حفظ الملف</string>
+	<string name="Could_not_save_the_file">لا يمكن حفظ الملف</string>
+	<string name="There_are_no_email_clients_installed.">لا توجد عملاء البريد الإلكتروني مثبتة.</string>
+    
+	
+       <string name="Paste_Data">لصق البيانات</string>
+    <string name="paste">لصق</string>
+    <string name="home">منزل</string>
+    <string name="up">فوق</string>
+    <string name="Back">إلى الوراء</string>
+    <string name="Next">التالي</string>
+    <string name="Search">بحث</string>
+    <string name="Faves">المفضلات</string>
+    <string name="Create">خلق</string>
+    <string name="Sort">نوع</string>
+    <string name="Refresh">التحديث</string>
+    <string name="Details_Folder">تفاصيل</string>
+    <string name="Open_Folder">فتح </string>
+    <string name="Copy_Folder">نسخ</string>
+    <string name="Delete_Folder">حذف</string>
+    <string name="Move_Folder">نقل (قص) </string>
+    <string name="Rename_Folder">إعادة تسمية </string>
+    <string name="Bookmark">المرجعية</string>
+    <string name="Zip_Folder">مجلد مضغوط</string>
+    <string name="Paste_Folder">لصق في مجلد</string>
+    <string name="Name">اسم:</string>
+    <string name="path">مسار:</string>
+    <string name="size">حجم:</string>
+    <string name="Files">ملفات:</string>
+    <string name="Folder">ملف:</string>
+    <string name="Items">سلع:</string>
+    <string name="Modified">تم التعديل:</string>
+    <string name="Permissions">أذونات:</string>
+    <string name="Search_for_a_file"> البحث عن ملف</string>
+    <string name="Sort_Completed">نوع مكتمل ...</string>
+    <string name="Created">أنشاء</string>
+    <string name="New_folder_was_not_created">لم يتم إنشاء مجلد جديد</string>
+    <string name="Create_New_Directory"> إنشاء دليل جديد</string>
+    <string name="items">سلع</string>
+    <string name="Extract_here">استخراج هنا</string>
+    <string name="Compress_here">ضغط هنا</string>
+    <string name="Share">حصة</string>
+    <string name="Add_Bookmark">إضافة إشارة مرجعية</string>
+    <string name="Bookmark_Added">أضف أضيفت ...</string>
+    <string name="No_Bookmark_Added">لا أضيف المرجعية ..</string>
+    <string name="bookmarklist">قائمة مرجعية</string>
+    <string name="Bookmark_name_updated">أضف اسم تحديث ...</string>
+    <string name="Bookmark_Already_done">أضف بالفعل القيام به ...</string>
+    <string name="Searching"> اكتمل ...</string>
+    <string name="Searching_current_file_system">  تبحث نظام الملفات الحالي ...</string>
+    <string name="Copying">  تقليد</string>
+    <string name="Copying_file"> نسخ ملف ...</string>
+    <string name="Unzipping">  غير حيويي</string>
+    <string name="Unpacking_zip_file_please_wait">  تفريغ ملف مضغوط يرجى الانتظار ...</string>
+    <string name="Zipping">  فتح سوستة</string>
+    <string name="Zipping_folder">  فتح سوستة المجلد ...</string>
+    <string name="Deleting">  حذف</string>
+    <string name="Deleting_files">  حذف الملفات ...</string>
+    <string name="Could_not_find">لا يمكن أن تجد </string>
+    <string name="Found"> أسس</string>
+    <string name="files">ملف (ق)</string>
+    <string name="Copy_pasted_failed">نسخ لصق فشلت</string>
+    <string name="File_successfully_copied_and_pasted">  الملف بنجاح نسخ ولصق</string>
+    <string name="Cannot_read_folder_due_to_permissions">لا يمكن قراءة مجلد بسبب أذونات</string>
+    <string name="Sorry_could_not_find_a_pdf_viewer">pdf آسف، لا يمكن العثور على عارض </string>
+    <string name="Sorry_could_not_find_a_Document_viewer"> آسف، لا يمكن العثور على وثيقة المشاهد</string>
+    <string name="Sorry_could_not_find_a_HTML_viewer"> HTML آسف، لا يمكن العثور على عارض </string>
+    <string name="Sorry_could_not_find_anything">  آسف، لا يمكن العثور على أي شيء </string>
+    <string name="to_open"> لفتح </string>
+    <string name="Press_back_again_to_quit"> اضغط على العودة مرة أخرى إلى الإقلاع عن التدخين.</string>
+    <string name="Multi_select_is_now_off">  متعدد اختر الآن قبالة</string>
+    <string name="Please_enter_the_name">الرجاء إدخال اسم</string>
+    <string name="Empty">فارغ</string>
+    <string name="Select_option">حدد الخيار</string>
+    <string name="Edit">تعديل</string>
+    <string name="Delete">حذف</string>
+    <string name="Rename">إعادة تسمية</string>
+    <string name="New_Name">اسم جديد</string>
+    <string name="Edit_Bookmark_Name">تعديل اسم المرجعية</string>
+    <string name="Remove_Bookmark">إزالة أضف</string>
+    <string name="Remove_Bookmark_Successfully">إزالة أضف بنجاح</string>
+    <string name="Bookmark_Confimation">إزالة أضف إلى تأكيد</string>
+    <string name="Are_you_sure_you_want_Bookmark">هل أنت متأكد أنك تريد إزالة المرجعية؟</string>
+    <string name="Deleted_Bookmark_Successfully">إزالة أضف بنجاح</string>
+    <string name="Delete_Confimation">حذف تأكيد</string>
+    <string name="Are_you_sure_you_want_delete">هل أنت متأكد أنك تريد حذف؟</string>
+    <string name="Deleted_Successfully">حذف بنجاح</string>
+    <string name="hidden"> مخفي</string>
+
+    <!--
+          ***************************
+             Strings for the 'Compressing' and 'Extracting' feature
+          ***************************
+    -->
+    <string name="compressing_success">البند ضغطها بنجاح</string>
+    <string name="compressing_error">لا يمكن أن ضغط هذا البند</string>
+    <string name="compress_into_archive">ضغط في الأرشيف:</string>
+    <string name="extracting_success">استخراج البند بنجاح</string>
+    <string name="extracting_error">لا يمكن استخراج البند</string>
+    <string name="extract_into_folder">استخراج إلى المجلد:</string>
+    <string name="extract_title">حدد مجلد لاستخراج إلى</string>
+    <string name="extract_button">استخراج هنا</string>
+    <string name="extracting">استخراج الملفات ...</string>
+    <string name="compressing">ضغط الملفات ...</string>
+    <string name="warning_overwrite">الملف٪s موجود. هل تريد الكتابة عليه؟</string>
+    <string name="change_file_extension">هل تريد تغيير ملحق الملف؟</string>
+    <string name="deletefail">لا يمكن حذف الملف</string>
+      
+
+      <string name="MoreApps">أكثر تطبيقات</string>
+    
+     <string name="ContactUS">اتصل بنا</string>
+    <string name="Contact_from">الاتصال من</string>
+     <string name="Share_App">حصة التطبيق</string>
+       <string name="Share_Andoird">الروبوت</string>
+       <string name="Share_Application">تطبيق</string>
+    <string name="Share_App_subject">أنا أحب</string>
+    <string name="Share_App_Body_top">"
+ مرحبا،       
+أنا أحب "</string>
+    <string name="Share_App_Body_middle">" بواسطة AppAspect Technologies Pvt. Ltd. يرجى تحميل من الرابط التالي
+    "</string>
+    <string name="Share_App_Body_bottom">"
+        شكرا"</string>
+  
+    
+  
+
+
+
+</resources>

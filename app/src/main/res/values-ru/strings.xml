@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">File Manager HD (исследователь)</string>
+     
+     <string name="Explorer">(исследователь)</string>
+    
+      <string name="menu_settings">настройки</string>
+    <string name="About_US">О компании</string>
+    <string name="Info">информация</string>
+    <string name="No_Internet_Connection">Нет подключения к Интернету</string>
+   <string name="OK">Оклахома</string>
+  <string name="Send">послать</string>
+    <string name="Cancel">отменить</string>
+    <string name="Rate_This_App">Оценка этой Применение</string>
+
+    <string name="action_save">экономить</string>
+	<string name="File_has_been_Saved">Файл был сохранен</string>
+	<string name="Could_not_save_the_file">Не удалось сохранить файл</string>
+	<string name="There_are_no_email_clients_installed.">Там нет почтовых клиентов установлены.</string>
+    
+	
+     <string name="Paste_Data">вставка данных</string>
+    <string name="paste">паста</string>
+    <string name="home">дома</string>
+    <string name="up">вверх</string>
+    <string name="Back">назад</string>
+    <string name="Next">следующий</string>
+    <string name="Search">Поиск</string>
+    <string name="Faves">избранное</string>
+    <string name="Create">создавать</string>
+    <string name="Sort">род</string>
+    <string name="Refresh">обновление</string>
+    <string name="Details_Folder">детали</string>
+    <string name="Open_Folder">открыть</string>
+    <string name="Copy_Folder">Скопируйте</string>
+    <string name="Delete_Folder">удалять</string>
+    <string name="Move_Folder">Переместить (CUT) </string>
+    <string name="Rename_Folder">переименовать</string>
+    <string name="Bookmark">закладка</string>
+    <string name="Zip_Folder">Архивная папка</string>
+    <string name="Paste_Folder">Вставить в папку</string>
+    <string name="Name">название:</string>
+    <string name="path">путь:</string>
+    <string name="size">размер:</string>
+    <string name="Files">Файлы:</string>
+    <string name="Folder">папка:</string>
+    <string name="Items">Предметы:</string>
+    <string name="Modified">модифицированный:</string>
+    <string name="Permissions">Разрешения:</string>
+    <string name="Search_for_a_file"> Поиск файла</string>
+    <string name="Sort_Completed">Сортировать Завершено ...</string>
+    <string name="Created">созданный</string>
+    <string name="New_folder_was_not_created">Новая папка не была создана</string>
+    <string name="Create_New_Directory">Создать новый каталог</string>
+    <string name="items">элементы</string>
+    <string name="Extract_here">Извлечь здесь</string>
+    <string name="Compress_here">Сжатие здесь</string>
+    <string name="Share">доля</string>
+    <string name="Add_Bookmark">Добавить закладку</string>
+    <string name="Bookmark_Added">Bookmark добавлен ...</string>
+    <string name="No_Bookmark_Added">Нет закладок не добавлен ...</string>
+    <string name="bookmarklist">Список закладок</string>
+    <string name="Bookmark_name_updated">Имя закладки обновляются ...</string>
+    <string name="Bookmark_Already_done">Закладка Уже сделано ...</string>
+    <string name="Searching">Идет поиск ...</string>
+    <string name="Searching_current_file_system">Поиск текущую файловую систему ....</string>
+    <string name="Copying">  копирование</string>
+    <string name="Copying_file"> Копирование файлов ...</string>
+    <string name="Unzipping">  Разархивирование</string>
+    <string name="Unpacking_zip_file_please_wait">Распаковка архива пожалуйста, подождите ...</string>
+    <string name="Zipping">  Архивирование</string>
+    <string name="Zipping_folder"> Архивирование папки ...</string>
+    <string name="Deleting">Удаление</string>
+    <string name="Deleting_files"> Удаление файлов ...</string>
+    <string name="Could_not_find">Не удалось найти </string>
+    <string name="Found"> найденный</string>
+    <string name="files"> файла (ов)</string>
+    <string name="Copy_pasted_failed">Скопируйте вставить не удалось</string>
+    <string name="File_successfully_copied_and_pasted">  Файл успешно скопирован и вставлен</string>
+    <string name="Cannot_read_folder_due_to_permissions"> Не удается прочитать папку из-за разрешений</string>
+    <string name="Sorry_could_not_find_a_pdf_viewer"> Извини, не мог найти просмотра PDF</string>
+    <string name="Sorry_could_not_find_a_Document_viewer"> К сожалению, не удалось найти Просмотр документов</string>
+    <string name="Sorry_could_not_find_a_HTML_viewer">  К сожалению, не смог найти зрителя HTML</string>
+    <string name="Sorry_could_not_find_anything"> К сожалению, ничего не могли найти </string>
+    <string name="to_open"> , чтобы открыть </string>
+    <string name="Press_back_again_to_quit"> Нажмите снова, чтобы бросить курить.</string>
+    <string name="Multi_select_is_now_off">  Multi-Select теперь от</string>
+    <string name="Please_enter_the_name">Пожалуйста, введите имя</string>
+    <string name="Empty">пустой</string>
+    <string name="Select_option">Выберите вариант</string>
+    <string name="Edit">редактировать</string>
+    <string name="Delete">удалять</string>
+    <string name="Rename">переименовать</string>
+    <string name="New_Name">Новое имя</string>
+    <string name="Edit_Bookmark_Name">Редактировать закладку Имя</string>
+    <string name="Remove_Bookmark">Удалить закладку</string>
+    <string name="Remove_Bookmark_Successfully">Удалить закладку успешно</string>
+    <string name="Bookmark_Confimation">Удалить закладку подтверждения</string>
+    <string name="Are_you_sure_you_want_Bookmark">Вы уверены, что хотите удалить закладку?</string>
+    <string name="Deleted_Bookmark_Successfully">Удалить закладку успешно</string>
+    <string name="Delete_Confimation">Подтверждение удаления</string>
+    <string name="Are_you_sure_you_want_delete">Вы уверены, что хотите удалить?</string>
+    <string name="Deleted_Successfully">успешно удален</string>
+    <string name="hidden">скрытый</string>
+
+    <!--
+          ***************************
+             Strings for the 'Compressing' and 'Extracting' feature
+          ***************************
+    -->
+    <string name="compressing_success">Пункт успешного сжатия</string>
+    <string name="compressing_error">Не удалось сжать пункта</string>
+    <string name="compress_into_archive">Сжатие в архив:</string>
+    <string name="extracting_success">Пункт успешно извлечены</string>
+    <string name="extracting_error">Невозможно получить пункта</string>
+    <string name="extract_into_folder">Извлечение в папку:</string>
+    <string name="extract_title">Выберите папку для извлечения в</string>
+    <string name="extract_button">Извлечь здесь</string>
+    <string name="extracting">Извлечение файлов ...</string>
+    <string name="compressing">Сжатие файлов ...</string>
+    <string name="warning_overwrite">Файл с% существует. Хотите переписать его?</string>
+    <string name="change_file_extension">Вы хотите изменить расширение файла!</string>
+    <string name="deletefail">Не удалось удалить файл</string>
+    
+    
+    <string name="MoreApps">Более приложения</string>
+   
+     <string name="ContactUS">Связаться с Нами</string>
+    <string name="Contact_from">Связаться с</string>
+    
+     <string name="Share_App">Доля приложение</string>
+       <string name="Share_Andoird">Android</string>
+       <string name="Share_Application">применение</string>
+    <string name="Share_App_subject">"мне нравится"</string>
+    <string name="Share_App_Body_top">"
+Здравствуй,
+мне нравится "</string>
+    <string name="Share_App_Body_middle">" по AppAspect Technologies Pvt. Ltd. Сайтах, пожалуйста, ссылку
+    "</string>
+    <string name="Share_App_Body_bottom">"
+        спасибо"</string>
+
+    
+   
+
+</resources>

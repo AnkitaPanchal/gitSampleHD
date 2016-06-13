@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="About_US">О компании</string>
+    <string name="Add_Bookmark">Добавить закладку</string>
+    <string name="Are_you_sure_you_want_Bookmark">Вы уверены, что хотите удалить закладку?</string>
+    <string name="Are_you_sure_you_want_delete">Вы уверены, что хотите удалить?</string>
+    <string name="Back">назад</string>
+    <string name="Bookmark">закладка</string>
+    <string name="Bookmark_Added">Bookmark добавлен ...</string>
+    <string name="Bookmark_Already_done">Закладка Уже сделано ...</string>
+    <string name="Bookmark_Confimation">Удалить закладку подтверждения</string>
+    <string name="Bookmark_name_updated">Имя закладки обновляются ...</string>
+    <string name="Cancel">отменить</string>
+    <string name="Cannot_read_folder_due_to_permissions"> Не удается прочитать папку из-за разрешений</string>
+    <string name="Compress_here">Сжатие здесь</string>
+    <string name="ContactUS">Связаться с Нами</string>
+    <string name="Contact_from">Связаться с</string>
+    <string name="Copy_Folder">Скопируйте</string>
+    <string name="Copy_pasted_failed">Скопируйте вставить не удалось</string>
+    <string name="Copying">  копирование</string>
+    <string name="Copying_file"> Копирование файлов ...</string>
+    <string name="Could_not_find">Не удалось найти </string>
+    <string name="Could_not_save_the_file">Не удалось сохранить файл</string>
+    <string name="Create">создавать</string>
+    <string name="Create_New_Directory">Создать новый каталог</string>
+    <string name="Created">созданный</string>
+    <string name="Delete">удалять</string>
+    <string name="Delete_Confimation">Подтверждение удаления</string>
+    <string name="Delete_Folder">удалять</string>
+    <string name="Deleted_Bookmark_Successfully">Удалить закладку успешно</string>
+    <string name="Deleted_Successfully">успешно удален</string>
+    <string name="Deleting">Удаление</string>
+    <string name="Deleting_files"> Удаление файлов ...</string>
+    <string name="Details_Folder">детали</string>
+    <string name="Edit">редактировать</string>
+    <string name="Edit_Bookmark_Name">Редактировать закладку Имя</string>
+    <string name="Empty">пустой</string>
+    <string name="Explorer">(исследователь)</string>
+    <string name="Extract_here">Извлечь здесь</string>
+    <string name="Faves">избранное</string>
+    <string name="File_has_been_Saved">Файл был сохранен</string>
+    <string name="File_successfully_copied_and_pasted">  Файл успешно скопирован и вставлен</string>
+    <string name="Files">Файлы:</string>
+    <string name="Folder">папка:</string>
+    <string name="Found"> найденный</string>
+    <string name="Info">информация</string>
+    <string name="Items">Предметы:</string>
+    <string name="Modified">модифицированный:</string>
+    <string name="MoreApps">Более приложения</string>
+    <string name="Move_Folder">Переместить (CUT) </string>
+    <string name="Multi_select_is_now_off">  Multi-Select теперь от</string>
+    <string name="Name">название:</string>
+    <string name="New_Name">Новое имя</string>
+    <string name="New_folder_was_not_created">Новая папка не была создана</string>
+    <string name="Next">следующий</string>
+    <string name="No_Bookmark_Added">Нет закладок не добавлен ...</string>
+    <string name="No_Internet_Connection">Нет подключения к Интернету</string>
+    <string name="OK">Оклахома</string>
+    <string name="Open_Folder">открыть</string>
+    <string name="Paste_Data">вставка данных</string>
+    <string name="Paste_Folder">Вставить в папку</string>
+    <string name="Permissions">Разрешения:</string>
+    <string name="Please_enter_the_name">Пожалуйста, введите имя</string>
+    <string name="Press_back_again_to_quit"> Нажмите снова, чтобы бросить курить.</string>
+    <string name="Rate_This_App">Оценка этой Применение</string>
+    <string name="Refresh">обновление</string>
+    <string name="Remove_Bookmark">Удалить закладку</string>
+    <string name="Remove_Bookmark_Successfully">Удалить закладку успешно</string>
+    <string name="Rename">переименовать</string>
+    <string name="Rename_Folder">переименовать</string>
+    <string name="Search">Поиск</string>
+    <string name="Search_for_a_file"> Поиск файла</string>
+    <string name="Searching">Идет поиск ...</string>
+    <string name="Searching_current_file_system">Поиск текущую файловую систему ....</string>
+    <string name="Select_option">Выберите вариант</string>
+    <string name="Send">послать</string>
+    <string name="Share">доля</string>
+    <string name="Share_Andoird">Android</string>
+    <string name="Share_App">Доля приложение</string>
+    <string name="Share_App_Body_bottom">"
+        спасибо"</string>
+    <string name="Share_App_Body_middle">" по AppAspect Technologies Pvt. Ltd. Сайтах, пожалуйста, ссылку
+    "</string>
+    <string name="Share_App_Body_top">"
+Здравствуй,
+мне нравится "</string>
+    <string name="Share_App_subject">"мне нравится"</string>
+    <string name="Share_Application">применение</string>
+    <string name="Sorry_could_not_find_a_Document_viewer"> К сожалению, не удалось найти Просмотр документов</string>
+    <string name="Sorry_could_not_find_a_HTML_viewer">  К сожалению, не смог найти зрителя HTML</string>
+    <string name="Sorry_could_not_find_a_pdf_viewer"> Извини, не мог найти просмотра PDF</string>
+    <string name="Sorry_could_not_find_anything"> К сожалению, ничего не могли найти </string>
+    <string name="Sort">род</string>
+    <string name="Sort_Completed">Сортировать Завершено ...</string>
+    <string name="There_are_no_email_clients_installed.">Там нет почтовых клиентов установлены.</string>
+    <string name="Unpacking_zip_file_please_wait">Распаковка архива пожалуйста, подождите ...</string>
+    <string name="Unzipping">  Разархивирование</string>
+    <string name="Zip_Folder">Архивная папка</string>
+    <string name="Zipping">  Архивирование</string>
+    <string name="Zipping_folder"> Архивирование папки ...</string>
+    <string name="action_save">экономить</string>
+    <string name="app_name">File Manager HD (исследователь)</string>
+    <string name="bookmarklist">Список закладок</string>
+    <string name="change_file_extension">Вы хотите изменить расширение файла!</string>
+    <string msgid="4770915072144378781" name="common_google_play_services_api_unavailable_text">"Сервисы Google Play, необходимые для работы с приложением \"<ns1:g id="APP_NAME">%1$s</ns1:g>\", сейчас недоступны. Обратитесь за помощью к разработчику."</string>
+    <string msgid="2050101795821476669" name="common_google_play_services_enable_button">"Включить"</string>
+    <string msgid="7045129128108380659" name="common_google_play_services_enable_text">"Для работы приложения \"<ns1:g id="APP_NAME">%1$s</ns1:g>\" требуется включить сервисы Google Play."</string>
+    <string msgid="3147157405986503375" name="common_google_play_services_enable_title">"Включите сервисы Google Play"</string>
+    <string msgid="7118643132557593940" name="common_google_play_services_install_button">"Установить"</string>
+    <string msgid="1666261992894286769" name="common_google_play_services_install_text_phone">"Для работы приложения \"<ns1:g id="APP_NAME">%1$s</ns1:g>\" требуется установить сервисы Google Play."</string>
+    <string msgid="1701766622451829291" name="common_google_play_services_install_text_tablet">"Для работы приложения \"<ns1:g id="APP_NAME">%1$s</ns1:g>\" требуется установить сервисы Google Play."</string>
+    <string msgid="7442193194585196676" name="common_google_play_services_install_title">"Установите сервисы Google Play"</string>
+    <string msgid="479501935061677276" name="common_google_play_services_invalid_account_text">"Этого аккаунта нет на устройстве. Выберите другой."</string>
+    <string msgid="5775407690646375078" name="common_google_play_services_invalid_account_title">"Недействительный аккаунт"</string>
+    <string msgid="6857745590248226927" name="common_google_play_services_network_error_text">"Для работы с Google Play требуется подключение к сети передачи данных."</string>
+    <string msgid="4183541461338112307" name="common_google_play_services_network_error_title">"Ошибка сети"</string>
+    <string msgid="180394615667698242" name="common_google_play_services_notification_ticker">"Ошибка сервисов Google Play"</string>
+    <string msgid="8897126254633757462" name="common_google_play_services_resolution_required_text">"Выполните действие, запрашиваемое приложением \"<ns1:g id="APP_NAME">%1$s</ns1:g>\"."</string>
+    <string msgid="7524004365913123453" name="common_google_play_services_resolution_required_title">"Требуется выполнить действие"</string>
+    <string msgid="3111284987662714014" name="common_google_play_services_restricted_profile_text">"У вашего профиля нет доступа к аккаунтам."</string>
+    <string msgid="8137798410446890929" name="common_google_play_services_restricted_profile_title">"Профиль с ограниченным доступом"</string>
+    <string msgid="2431909537598981235" name="common_google_play_services_sign_in_failed_text">"При входе в указанный аккаунт произошла ошибка. Выберите другой аккаунт."</string>
+    <string msgid="4402642931312190213" name="common_google_play_services_sign_in_failed_title">"Ошибка входа"</string>
+    <string msgid="9089562800660647919" name="common_google_play_services_unknown_issue">"Приложению \"<ns1:g id="APP_NAME">%1$s</ns1:g>\" не удается подключиться к сервисам Google Play. Если проблема не исчезнет, обратитесь к разработчику."</string>
+    <string msgid="1064791666906610763" name="common_google_play_services_unsupported_text">"Сервисы Google Play, необходимые для работы приложения \"<ns1:g id="APP_NAME">%1$s</ns1:g>\", не поддерживаются на вашем устройстве. Обратитесь к производителю."</string>
+    <string msgid="539866123733096737" name="common_google_play_services_unsupported_title">"Сервисы Google Play"</string>
+    <string msgid="8172070149091615356" name="common_google_play_services_update_button">"Обновить"</string>
+    <string msgid="7773943415006962566" name="common_google_play_services_update_text">"Чтобы запустить приложение \"<ns1:g id="APP_NAME">%1$s</ns1:g>\", обновите сервисы Google Play."</string>
+    <string msgid="8706675115216073244" name="common_google_play_services_update_title">"Обновите сервисы Google Play"</string>
+    <string msgid="7894275749778928941" name="common_google_play_services_updating_text">"Сервисы Google Play, необходимые для работы приложения \"<ns1:g id="APP_NAME">%1$s</ns1:g>\", в настоящий момент обновляются."</string>
+    <string msgid="2270671469198016014" name="common_google_play_services_updating_title">"Обновление сервисов Google Play…"</string>
+    <string msgid="2804989272736383918" name="common_google_play_services_wear_update_text">"Версия сервисов Google Play устарела. Они автоматически обновятся в ближайшее время."</string>
+    <string msgid="5201977337835724196" name="common_open_on_phone">"Открыть на телефоне"</string>
+    <string msgid="3441753203274453993" name="common_signin_button_text">"Войти"</string>
+    <string msgid="669893613918351210" name="common_signin_button_text_long">"Войти через аккаунт Google"</string>
+    <string name="compress_into_archive">Сжатие в архив:</string>
+    <string name="compressing">Сжатие файлов ...</string>
+    <string name="compressing_error">Не удалось сжать пункта</string>
+    <string name="compressing_success">Пункт успешного сжатия</string>
+    <string name="deletefail">Не удалось удалить файл</string>
+    <string name="extract_button">Извлечь здесь</string>
+    <string name="extract_into_folder">Извлечение в папку:</string>
+    <string name="extract_title">Выберите папку для извлечения в</string>
+    <string name="extracting">Извлечение файлов ...</string>
+    <string name="extracting_error">Невозможно получить пункта</string>
+    <string name="extracting_success">Пункт успешно извлечены</string>
+    <string name="files"> файла (ов)</string>
+    <string name="hidden">скрытый</string>
+    <string name="home">дома</string>
+    <string name="items">элементы</string>
+    <string name="menu_settings">настройки</string>
+    <string name="paste">паста</string>
+    <string name="path">путь:</string>
+    <string name="size">размер:</string>
+    <string name="to_open"> , чтобы открыть </string>
+    <string name="up">вверх</string>
+    <string name="warning_overwrite">Файл с% существует. Хотите переписать его?</string>
+</resources>

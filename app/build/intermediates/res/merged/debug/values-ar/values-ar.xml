@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="About_US">حول بنا</string>
+    <string name="Add_Bookmark">إضافة إشارة مرجعية</string>
+    <string name="Are_you_sure_you_want_Bookmark">هل أنت متأكد أنك تريد إزالة المرجعية؟</string>
+    <string name="Are_you_sure_you_want_delete">هل أنت متأكد أنك تريد حذف؟</string>
+    <string name="Back">إلى الوراء</string>
+    <string name="Bookmark">المرجعية</string>
+    <string name="Bookmark_Added">أضف أضيفت ...</string>
+    <string name="Bookmark_Already_done">أضف بالفعل القيام به ...</string>
+    <string name="Bookmark_Confimation">إزالة أضف إلى تأكيد</string>
+    <string name="Bookmark_name_updated">أضف اسم تحديث ...</string>
+    <string name="Cancel">إلغاء</string>
+    <string name="Cannot_read_folder_due_to_permissions">لا يمكن قراءة مجلد بسبب أذونات</string>
+    <string name="Compress_here">ضغط هنا</string>
+    <string name="ContactUS">اتصل بنا</string>
+    <string name="Contact_from">الاتصال من</string>
+    <string name="Copy_Folder">نسخ</string>
+    <string name="Copy_pasted_failed">نسخ لصق فشلت</string>
+    <string name="Copying">  تقليد</string>
+    <string name="Copying_file"> نسخ ملف ...</string>
+    <string name="Could_not_find">لا يمكن أن تجد </string>
+    <string name="Could_not_save_the_file">لا يمكن حفظ الملف</string>
+    <string name="Create">خلق</string>
+    <string name="Create_New_Directory"> إنشاء دليل جديد</string>
+    <string name="Created">أنشاء</string>
+    <string name="Delete">حذف</string>
+    <string name="Delete_Confimation">حذف تأكيد</string>
+    <string name="Delete_Folder">حذف</string>
+    <string name="Deleted_Bookmark_Successfully">إزالة أضف بنجاح</string>
+    <string name="Deleted_Successfully">حذف بنجاح</string>
+    <string name="Deleting">  حذف</string>
+    <string name="Deleting_files">  حذف الملفات ...</string>
+    <string name="Details_Folder">تفاصيل</string>
+    <string name="Edit">تعديل</string>
+    <string name="Edit_Bookmark_Name">تعديل اسم المرجعية</string>
+    <string name="Empty">فارغ</string>
+    <string name="Explorer">(مستكشف)</string>
+    <string name="Extract_here">استخراج هنا</string>
+    <string name="Faves">المفضلات</string>
+    <string name="File_has_been_Saved">تم حفظ الملف</string>
+    <string name="File_successfully_copied_and_pasted">  الملف بنجاح نسخ ولصق</string>
+    <string name="Files">ملفات:</string>
+    <string name="Folder">ملف:</string>
+    <string name="Found"> أسس</string>
+    <string name="Info">معلومات</string>
+    <string name="Items">سلع:</string>
+    <string name="Modified">تم التعديل:</string>
+    <string name="MoreApps">أكثر تطبيقات</string>
+    <string name="Move_Folder">نقل (قص) </string>
+    <string name="Multi_select_is_now_off">  متعدد اختر الآن قبالة</string>
+    <string name="Name">اسم:</string>
+    <string name="New_Name">اسم جديد</string>
+    <string name="New_folder_was_not_created">لم يتم إنشاء مجلد جديد</string>
+    <string name="Next">التالي</string>
+    <string name="No_Bookmark_Added">لا أضيف المرجعية ..</string>
+    <string name="No_Internet_Connection">لا اتصال إنترنت</string>
+    <string name="OK">حسنا</string>
+    <string name="Open_Folder">فتح </string>
+    <string name="Paste_Data">لصق البيانات</string>
+    <string name="Paste_Folder">لصق في مجلد</string>
+    <string name="Permissions">أذونات:</string>
+    <string name="Please_enter_the_name">الرجاء إدخال اسم</string>
+    <string name="Press_back_again_to_quit"> اضغط على العودة مرة أخرى إلى الإقلاع عن التدخين.</string>
+    <string name="Rate_This_App">قيم هذا التطبيق</string>
+    <string name="Refresh">التحديث</string>
+    <string name="Remove_Bookmark">إزالة أضف</string>
+    <string name="Remove_Bookmark_Successfully">إزالة أضف بنجاح</string>
+    <string name="Rename">إعادة تسمية</string>
+    <string name="Rename_Folder">إعادة تسمية </string>
+    <string name="Search">بحث</string>
+    <string name="Search_for_a_file"> البحث عن ملف</string>
+    <string name="Searching"> اكتمل ...</string>
+    <string name="Searching_current_file_system">  تبحث نظام الملفات الحالي ...</string>
+    <string name="Select_option">حدد الخيار</string>
+    <string name="Send">إرسال</string>
+    <string name="Share">حصة</string>
+    <string name="Share_Andoird">الروبوت</string>
+    <string name="Share_App">حصة التطبيق</string>
+    <string name="Share_App_Body_bottom">"
+        شكرا"</string>
+    <string name="Share_App_Body_middle">" بواسطة AppAspect Technologies Pvt. Ltd. يرجى تحميل من الرابط التالي
+    "</string>
+    <string name="Share_App_Body_top">"
+ مرحبا،       
+أنا أحب "</string>
+    <string name="Share_App_subject">أنا أحب</string>
+    <string name="Share_Application">تطبيق</string>
+    <string name="Sorry_could_not_find_a_Document_viewer"> آسف، لا يمكن العثور على وثيقة المشاهد</string>
+    <string name="Sorry_could_not_find_a_HTML_viewer"> HTML آسف، لا يمكن العثور على عارض </string>
+    <string name="Sorry_could_not_find_a_pdf_viewer">pdf آسف، لا يمكن العثور على عارض </string>
+    <string name="Sorry_could_not_find_anything">  آسف، لا يمكن العثور على أي شيء </string>
+    <string name="Sort">نوع</string>
+    <string name="Sort_Completed">نوع مكتمل ...</string>
+    <string name="There_are_no_email_clients_installed.">لا توجد عملاء البريد الإلكتروني مثبتة.</string>
+    <string name="Unpacking_zip_file_please_wait">  تفريغ ملف مضغوط يرجى الانتظار ...</string>
+    <string name="Unzipping">  غير حيويي</string>
+    <string name="Zip_Folder">مجلد مضغوط</string>
+    <string name="Zipping">  فتح سوستة</string>
+    <string name="Zipping_folder">  فتح سوستة المجلد ...</string>
+    <string name="action_save">حفظ</string>
+    <string name="app_name">مدير ملف HD (إكسبلورر)</string>
+    <string name="bookmarklist">قائمة مرجعية</string>
+    <string name="change_file_extension">هل تريد تغيير ملحق الملف؟</string>
+    <string msgid="4770915072144378781" name="common_google_play_services_api_unavailable_text">"‏يتطلب <ns1:g id="APP_NAME">%1$s</ns1:g> خدمة أو أكثر من خدمات Google Play والتي لا تتوفر حاليًا. يُرجى الاتصال بمطوّر البرامج للحصول على المساعدة."</string>
+    <string msgid="2050101795821476669" name="common_google_play_services_enable_button">"‏تمكين خدمات Google Play"</string>
+    <string msgid="7045129128108380659" name="common_google_play_services_enable_text">"‏لن يعمل <ns1:g id="APP_NAME">%1$s</ns1:g> ما لم يتم تمكين خدمات Google Play."</string>
+    <string msgid="3147157405986503375" name="common_google_play_services_enable_title">"‏تمكين خدمات Google Play"</string>
+    <string msgid="7118643132557593940" name="common_google_play_services_install_button">"‏الحصول على خدمات Google Play"</string>
+    <string msgid="1666261992894286769" name="common_google_play_services_install_text_phone">"‏لن يتم تشغيل <ns1:g id="APP_NAME">%1$s</ns1:g> بدون خدمات Google Play، والتي لا تتوفر على هاتفك."</string>
+    <string msgid="1701766622451829291" name="common_google_play_services_install_text_tablet">"‏لن يتم تشغيل <ns1:g id="APP_NAME">%1$s</ns1:g> بدون خدمات Google Play، والتي لا تتوفر على جهازك اللوحي."</string>
+    <string msgid="7442193194585196676" name="common_google_play_services_install_title">"‏الحصول على خدمات Google Play"</string>
+    <string msgid="479501935061677276" name="common_google_play_services_invalid_account_text">"الحساب الذي تمّ تحديده غير موجود على الجهاز. يُرجى اختيار حساب آخر."</string>
+    <string msgid="5775407690646375078" name="common_google_play_services_invalid_account_title">"حساب غير صالح"</string>
+    <string msgid="6857745590248226927" name="common_google_play_services_network_error_text">"‏يتطلب الاتصال بخدمات Google Play وجود اتصال بيانات."</string>
+    <string msgid="4183541461338112307" name="common_google_play_services_network_error_title">"خطأ في الشبكة"</string>
+    <string msgid="180394615667698242" name="common_google_play_services_notification_ticker">"‏خطأ في خدمات Google Play"</string>
+    <string msgid="8897126254633757462" name="common_google_play_services_resolution_required_text">"الرجاء إكمال الإجراء المطلوب بواسطة <ns1:g id="APP_NAME">%1$s</ns1:g>."</string>
+    <string msgid="7524004365913123453" name="common_google_play_services_resolution_required_title">"‏تتطلب خدمات Google Play اتخاذ إجراء"</string>
+    <string msgid="3111284987662714014" name="common_google_play_services_restricted_profile_text">"لا تتوفر إمكانية الوصول إلى الحسابات من ملف شخصي مقيَّد."</string>
+    <string msgid="8137798410446890929" name="common_google_play_services_restricted_profile_title">"ملف شخصي مقيَّد"</string>
+    <string msgid="2431909537598981235" name="common_google_play_services_sign_in_failed_text">"حدث خطأ أثناء تسجيل الدخول إلى الحساب المحدد. الرجاء اختيار حساب مختلف."</string>
+    <string msgid="4402642931312190213" name="common_google_play_services_sign_in_failed_title">"أخفق تسجيل الدخول"</string>
+    <string msgid="9089562800660647919" name="common_google_play_services_unknown_issue">"‏تواجه <ns1:g id="APP_NAME">%1$s</ns1:g> مشكلة في خدمات Google Play. إذا ظلت المشكلة قائمة، فيُرجى الاتصال بمطوِّر البرامج للحصول على مساعدة."</string>
+    <string msgid="1064791666906610763" name="common_google_play_services_unsupported_text">"‏يعتمد <ns1:g id="APP_NAME">%1$s</ns1:g> على خدمات Google Play والتي لا تتوافق مع جهازك. يمكنك الاتصال بجهة التصنيع للحصول على مساعدة."</string>
+    <string msgid="539866123733096737" name="common_google_play_services_unsupported_title">"‏خدمات Google Play"</string>
+    <string msgid="8172070149091615356" name="common_google_play_services_update_button">"تحديث"</string>
+    <string msgid="7773943415006962566" name="common_google_play_services_update_text">"‏لن يتم تشغيل <ns1:g id="APP_NAME">%1$s</ns1:g> ما لم يتم تحديث خدمات Google Play."</string>
+    <string msgid="8706675115216073244" name="common_google_play_services_update_title">"‏تحديث خدمات Google Play"</string>
+    <string msgid="7894275749778928941" name="common_google_play_services_updating_text">"‏لن يتم تشغيل <ns1:g id="APP_NAME">%1$s</ns1:g> بدون خدمات Google Play، والتي يتم تحديثها حاليًا."</string>
+    <string msgid="2270671469198016014" name="common_google_play_services_updating_title">"‏يتم الآن تحديث خدمات Google Play."</string>
+    <string msgid="2804989272736383918" name="common_google_play_services_wear_update_text">"‏يجب توفر إصدار جديد من خدمات Google Play. سيتم تحديثها تلقائيًا قريبًا."</string>
+    <string msgid="5201977337835724196" name="common_open_on_phone">"فتح على الهاتف"</string>
+    <string msgid="3441753203274453993" name="common_signin_button_text">"تسجل الدخول"</string>
+    <string msgid="669893613918351210" name="common_signin_button_text_long">"‏تسجيل الدخول عبر Google"</string>
+    <string name="compress_into_archive">ضغط في الأرشيف:</string>
+    <string name="compressing">ضغط الملفات ...</string>
+    <string name="compressing_error">لا يمكن أن ضغط هذا البند</string>
+    <string name="compressing_success">البند ضغطها بنجاح</string>
+    <string name="deletefail">لا يمكن حذف الملف</string>
+    <string name="extract_button">استخراج هنا</string>
+    <string name="extract_into_folder">استخراج إلى المجلد:</string>
+    <string name="extract_title">حدد مجلد لاستخراج إلى</string>
+    <string name="extracting">استخراج الملفات ...</string>
+    <string name="extracting_error">لا يمكن استخراج البند</string>
+    <string name="extracting_success">استخراج البند بنجاح</string>
+    <string name="files">ملف (ق)</string>
+    <string name="hidden"> مخفي</string>
+    <string name="home">منزل</string>
+    <string name="items">سلع</string>
+    <string name="menu_settings">إعدادات</string>
+    <string name="paste">لصق</string>
+    <string name="path">مسار:</string>
+    <string name="size">حجم:</string>
+    <string name="to_open"> لفتح </string>
+    <string name="up">فوق</string>
+    <string name="warning_overwrite">الملف٪s موجود. هل تريد الكتابة عليه؟</string>
+</resources>

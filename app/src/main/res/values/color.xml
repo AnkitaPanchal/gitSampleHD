@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="textcolor">#000000</color>
+    <color name="backgroundwhitecolor">#ffffff</color>
+    <color name="backgroundblackcolor">#000000</color>
+    <color name="backgroundmaincolor">#ffffff</color>
+    <color name="textwhitecolor">#ffffff</color>
+    <color name="textblackcolor">#000000</color>
+    <color name="backgraycolor">#e5e5e5</color>
+    <color name="icsdarkblue">#177BBD</color>
+    <color name="transparent">#000000FF</color>
+
+</resources>

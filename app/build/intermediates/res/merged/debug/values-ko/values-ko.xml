@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="About_US">미국에 관하여</string>
+    <string name="Add_Bookmark">즐겨 찾기에 추가</string>
+    <string name="Are_you_sure_you_want_Bookmark">당신은 당신이 북마크를 삭제 하시겠습니까?</string>
+    <string name="Are_you_sure_you_want_delete">당신은 당신이 삭제 하시겠습니까?</string>
+    <string name="Back">뒤로</string>
+    <string name="Bookmark">서표</string>
+    <string name="Bookmark_Added">즐겨 찾기에 추가 ...</string>
+    <string name="Bookmark_Already_done">이미 완료를 즐겨 찾기 ...</string>
+    <string name="Bookmark_Confimation">확인을 즐겨 찾기 삭제</string>
+    <string name="Bookmark_name_updated">책갈피 이름을 업데이트 ...</string>
+    <string name="Cancel">취소</string>
+    <string name="Cannot_read_folder_due_to_permissions"> 권한에 따라 폴더를 읽을 수 없습니다</string>
+    <string name="Compress_here">여기에 압축</string>
+    <string name="ContactUS">저희에게 연락하십시오</string>
+    <string name="Contact_from">로부터 물품</string>
+    <string name="Copy_Folder">복사 </string>
+    <string name="Copy_pasted_failed">붙여 넣기 실패를 복사</string>
+    <string name="Copying">복사</string>
+    <string name="Copying_file"> 파일을 복사 ...</string>
+    <string name="Could_not_find">찾을 수 없습니다 </string>
+    <string name="Could_not_save_the_file">파일을 저장할 수 없습니다</string>
+    <string name="Create">만들기</string>
+    <string name="Create_New_Directory">새로운 디렉토리를 생성</string>
+    <string name="Created">생성</string>
+    <string name="Delete">삭제</string>
+    <string name="Delete_Confimation">삭제 확인</string>
+    <string name="Delete_Folder">삭제 </string>
+    <string name="Deleted_Bookmark_Successfully">제거 성공 북마크</string>
+    <string name="Deleted_Successfully">성공적으로 삭제</string>
+    <string name="Deleting">  삭제</string>
+    <string name="Deleting_files">  파일 삭제 ...</string>
+    <string name="Details_Folder">세부</string>
+    <string name="Edit">편집</string>
+    <string name="Edit_Bookmark_Name">책갈피 이름을 편집합니다</string>
+    <string name="Empty">빈</string>
+    <string name="Explorer">(탐색기)</string>
+    <string name="Extract_here">여기에 압축을 풉니 다</string>
+    <string name="Faves">즐겨 찾기 등록</string>
+    <string name="File_has_been_Saved">파일이 저장되었습니다</string>
+    <string name="File_successfully_copied_and_pasted">  성공적으로 복사 및 붙여 넣기 파일</string>
+    <string name="Files">파일:</string>
+    <string name="Folder">폴더:</string>
+    <string name="Found"> 발견</string>
+    <string name="Info">정보</string>
+    <string name="Items">상품:</string>
+    <string name="Modified">수정:</string>
+    <string name="MoreApps">더 많은 애플 리케이션</string>
+    <string name="Move_Folder">이동 (잘라 내기) </string>
+    <string name="Multi_select_is_now_off"> 다중 선택은 이제 꺼져</string>
+    <string name="Name">이름:</string>
+    <string name="New_Name">새 이름</string>
+    <string name="New_folder_was_not_created">새 폴더가 생성되지 않았습니다</string>
+    <string name="Next">다음</string>
+    <string name="No_Bookmark_Added">더 책갈피에 추가하지 않습니다 ..</string>
+    <string name="No_Internet_Connection">인터넷에 연결하지</string>
+    <string name="OK">OK</string>
+    <string name="Open_Folder">열려있는</string>
+    <string name="Paste_Data">데이터 붙여 넣기</string>
+    <string name="Paste_Folder">폴더에 붙여 넣기</string>
+    <string name="Permissions">권한:</string>
+    <string name="Please_enter_the_name">이름을 입력하세요</string>
+    <string name="Press_back_again_to_quit"> 종료하려면 다시 누릅니다.</string>
+    <string name="Rate_This_App">비율이 응용 프로그램</string>
+    <string name="Refresh">새로 고침</string>
+    <string name="Remove_Bookmark">책갈피를 제거</string>
+    <string name="Remove_Bookmark_Successfully">제거 성공 북마크</string>
+    <string name="Rename">이름 바꾸기</string>
+    <string name="Rename_Folder">이름 바꾸기 </string>
+    <string name="Search">검색</string>
+    <string name="Search_for_a_file"> 파일 검색</string>
+    <string name="Searching"> 검색 ...</string>
+    <string name="Searching_current_file_system"> 현재 파일 시스템을 검색 ...</string>
+    <string name="Select_option">옵션을 선택</string>
+    <string name="Send">보내기</string>
+    <string name="Share">몫</string>
+    <string name="Share_Andoird">안드로이드</string>
+    <string name="Share_App">공유 앱</string>
+    <string name="Share_App_Body_bottom">"
+        감사"</string>
+    <string name="Share_App_Body_middle">" AppAspect Technologies Pvt. Ltd. 있습니다. 다음 링크에서 다운로드하십시오
+    "</string>
+    <string name="Share_App_Body_top">"
+안녕하세요,
+내가 좋아하는 "</string>
+    <string name="Share_App_subject">"내가 좋아하는"</string>
+    <string name="Share_Application">신청</string>
+    <string name="Sorry_could_not_find_a_Document_viewer"> 죄송합니다, 문서 뷰어를 찾을 수 없습니다</string>
+    <string name="Sorry_could_not_find_a_HTML_viewer"> 죄송합니다, HTML 뷰어를 찾을 수 없습니다</string>
+    <string name="Sorry_could_not_find_a_pdf_viewer">  죄송합니다, PDF 뷰어를 찾을 수 없습니다</string>
+    <string name="Sorry_could_not_find_anything"> 죄송합니다, 아무것도 찾을 수 없습니다 </string>
+    <string name="Sort">종류</string>
+    <string name="Sort_Completed">정렬 완료 ...</string>
+    <string name="There_are_no_email_clients_installed.">설치된 전자 메일 클라이언트가 없습니다.</string>
+    <string name="Unpacking_zip_file_please_wait"> zip 파일을 풀기 기다려주십시오 ...</string>
+    <string name="Unzipping">  압축 풀기</string>
+    <string name="Zip_Folder">우편 폴더</string>
+    <string name="Zipping">  압축</string>
+    <string name="Zipping_folder">  폴더를 압축 ...</string>
+    <string name="action_save">저장</string>
+    <string name="app_name">관리자 HD 파일 (탐색기)</string>
+    <string name="bookmarklist">리스트를 즐겨 찾기에 추가</string>
+    <string name="change_file_extension">당신은 파일 확장자를 변경 하시겠습니까?</string>
+    <string msgid="4770915072144378781" name="common_google_play_services_api_unavailable_text">"현재 <ns1:g id="APP_NAME">%1$s</ns1:g>에 필요한 하나 이상의 Google Play 서비스를 사용할 수 없습니다. 개발자에게 문의하여 도움을 받으시기 바랍니다."</string>
+    <string msgid="2050101795821476669" name="common_google_play_services_enable_button">"Google Play 서비스 사용"</string>
+    <string msgid="7045129128108380659" name="common_google_play_services_enable_text">"Google Play 서비스를 사용하도록 설정해야 <ns1:g id="APP_NAME">%1$s</ns1:g>이(가) 작동합니다."</string>
+    <string msgid="3147157405986503375" name="common_google_play_services_enable_title">"Google Play 서비스 사용"</string>
+    <string msgid="7118643132557593940" name="common_google_play_services_install_button">"Google Play 서비스 설치"</string>
+    <string msgid="1666261992894286769" name="common_google_play_services_install_text_phone">"스마트폰에 Google Play 서비스가 설치되어 있어야 <ns1:g id="APP_NAME">%1$s</ns1:g>이(가) 실행됩니다."</string>
+    <string msgid="1701766622451829291" name="common_google_play_services_install_text_tablet">"태블릿에 Google Play 서비스가 설치되어 있어야 <ns1:g id="APP_NAME">%1$s</ns1:g>이(가) 실행됩니다."</string>
+    <string msgid="7442193194585196676" name="common_google_play_services_install_title">"Google Play 서비스 설치"</string>
+    <string msgid="479501935061677276" name="common_google_play_services_invalid_account_text">"지정한 계정이 이 기기에 존재하지 않습니다. 다른 계정을 선택하세요."</string>
+    <string msgid="5775407690646375078" name="common_google_play_services_invalid_account_title">"올바르지 않은 계정"</string>
+    <string msgid="6857745590248226927" name="common_google_play_services_network_error_text">"Google Play 서비스에 연결하려면 데이터 연결이 필요합니다."</string>
+    <string msgid="4183541461338112307" name="common_google_play_services_network_error_title">"네트워크 오류"</string>
+    <string msgid="180394615667698242" name="common_google_play_services_notification_ticker">"Google Play 서비스 오류"</string>
+    <string msgid="8897126254633757462" name="common_google_play_services_resolution_required_text">"<ns1:g id="APP_NAME">%1$s</ns1:g>에 필요한 작업을 완료해 주세요."</string>
+    <string msgid="7524004365913123453" name="common_google_play_services_resolution_required_title">"Google Play 서비스에서 작업 요구"</string>
+    <string msgid="3111284987662714014" name="common_google_play_services_restricted_profile_text">"제한된 프로필에서 계정에 액세스할 수 없습니다."</string>
+    <string msgid="8137798410446890929" name="common_google_play_services_restricted_profile_title">"제한된 프로필"</string>
+    <string msgid="2431909537598981235" name="common_google_play_services_sign_in_failed_text">"지정한 계정에 로그인하는 중에 오류가 발생했습니다. 다른 계정을 선택해 주세요."</string>
+    <string msgid="4402642931312190213" name="common_google_play_services_sign_in_failed_title">"로그인 실패"</string>
+    <string msgid="9089562800660647919" name="common_google_play_services_unknown_issue">"<ns1:g id="APP_NAME">%1$s</ns1:g>에서 Google Play 서비스를 사용하는 데 문제가 있습니다. 문제가 계속되는 경우 개발자에게 지원을 요청하세요."</string>
+    <string msgid="1064791666906610763" name="common_google_play_services_unsupported_text">"<ns1:g id="APP_NAME">%1$s</ns1:g>에 필요한 Google Play 서비스가 사용자 기기에서 지원되지 않습니다. 기기 제조업체에 문의하시기 바랍니다."</string>
+    <string msgid="539866123733096737" name="common_google_play_services_unsupported_title">"Google Play 서비스"</string>
+    <string msgid="8172070149091615356" name="common_google_play_services_update_button">"업데이트"</string>
+    <string msgid="7773943415006962566" name="common_google_play_services_update_text">"Google Play 서비스를 업데이트해야 <ns1:g id="APP_NAME">%1$s</ns1:g>이(가) 실행됩니다."</string>
+    <string msgid="8706675115216073244" name="common_google_play_services_update_title">"Google Play 서비스 업데이트"</string>
+    <string msgid="7894275749778928941" name="common_google_play_services_updating_text">"현재 업데이트 중인 Google Play 서비스가 있어야 <ns1:g id="APP_NAME">%1$s</ns1:g>이(가) 실행됩니다."</string>
+    <string msgid="2270671469198016014" name="common_google_play_services_updating_title">"Google Play 서비스 업데이트 중"</string>
+    <string msgid="2804989272736383918" name="common_google_play_services_wear_update_text">"새 버전의 Google Play 서비스가 필요합니다. 곧 자동으로 업데이트됩니다."</string>
+    <string msgid="5201977337835724196" name="common_open_on_phone">"스마트폰에서 열기"</string>
+    <string msgid="3441753203274453993" name="common_signin_button_text">"로그인"</string>
+    <string msgid="669893613918351210" name="common_signin_button_text_long">"Google 계정으로 로그인"</string>
+    <string name="compress_into_archive">아카이브로 압축:</string>
+    <string name="compressing">파일을 압축 ...</string>
+    <string name="compressing_error">항목을 압축 할 수 없습니다</string>
+    <string name="compressing_success">항목이 성공적으로 압축</string>
+    <string name="deletefail">파일을 삭제할 수 없습니다</string>
+    <string name="extract_button">여기에 압축을 풉니 다</string>
+    <string name="extract_into_folder">폴더에 압축을 풉니 다:</string>
+    <string name="extract_title">로 추출 할 폴더를 선택</string>
+    <string name="extracting">파일을 추출 ...</string>
+    <string name="extracting_error">항목을 추출 할 수 없습니다</string>
+    <string name="extracting_success">항목이 성공적으로 추출</string>
+    <string name="files"> 파일 (들)</string>
+    <string name="hidden"> 숨겨진</string>
+    <string name="home">홈</string>
+    <string name="items">상품</string>
+    <string name="menu_settings">설정</string>
+    <string name="paste">풀</string>
+    <string name="path">통로:</string>
+    <string name="size">사이즈:</string>
+    <string name="to_open"> 열 수  </string>
+    <string name="up">올라</string>
+    <string name="warning_overwrite">%s 파일이 존재합니다. 당신은 그것을 덮어 쓰시겠습니까?</string>
+</resources>

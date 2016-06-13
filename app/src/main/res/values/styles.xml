@@ -1,0 +1,74 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!--
+        Base application theme, dependent on API level. This theme is replaced
+        by AppBaseTheme from res/values-vXX/styles.xml on newer devices.
+    -->
+    <style name="AppBaseTheme" parent="android:Theme">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+
+    <style name="SpalshScreen" parent="android:Theme.Light">
+
+        <!-- hide the Window Title -->
+        <item name="android:windowNoTitle">true</item>
+
+        <!-- You could change the scrollbar, checkbox style, anything! -->
+    </style>
+
+    <!-- Application theme. -->
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+    <!-- use the Android Light theme as the base for our own theme -->
+    <style name="ListDialogTheme" parent="@android:style/Theme.Dialog">
+
+        <!-- hide the Window Title -->
+        <item name="android:windowNoTitle">true</item>
+
+        <!-- You could change the scrollbar, checkbox style, anything! -->
+    </style>
+
+    <style name="CustomTheme" parent="android:Theme.NoTitleBar"></style>
+
+    <style name="myTheme" parent="AppTheme">
+
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+        
+        <item name="android:textColor">@color/textwhitecolor</item>
+        <item name="android:windowBackground">@color/backgroundblackcolor</item>
+    </style>
+
+   
+
+    <style name="preference_title">
+        <item name="android:textSize">16sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="MediaController_SeekBar">
+        <item name="android:minHeight">16dip</item>
+        <item name="android:maxHeight">16dip</item>
+        <item name="android:progressDrawable">@drawable/mediacontroller_seekbar</item>
+        <item name="android:thumb">@drawable/mediacontroller_seekbar_thumb</item>
+    </style>
+
+    <style name="MediaController_Text">
+        <item name="android:textColor">#ffffffff</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    <style name="DemoButton">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:minWidth">40dp</item>
+    </style>
+</resources>

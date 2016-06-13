@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+      <string name="app_name">Datei Manager HD (Forscher)</string>
+     
+     <string name="Explorer">(Forscher)</string>
+     
+    <string name="menu_settings">Einstellungen</string>
+    <string name="About_US">Über uns</string>
+    <string name="Info">Info</string>
+    <string name="No_Internet_Connection">Keine Internetverbindung</string>
+  <string name="OK">OK</string>
+  <string name="Send">senden</string>
+    <string name="Cancel">stornieren</string>
+    <string name="Rate_This_App">Bewerten Sie diesen Antrag</string>
+    
+    <string name="action_save">sparen</string>
+	<string name="File_has_been_Saved">Datei gespeichert wurde</string>
+	<string name="Could_not_save_the_file">Die Datei konnte nicht gespeichert werden</string>
+	<string name="There_are_no_email_clients_installed.">Es gibt keine E-Mail-Clients installiert.</string>
+    
+	
+     <string name="Paste_Data">Einfügen von Daten</string>
+    <string name="paste">Einfügen</string>
+    <string name="home">Zuhause</string>
+    <string name="up">Up</string>
+    <string name="Back">Zurück</string>
+    <string name="Next">Weiter</string>
+    <string name="Search">Suchen</string>
+    <string name="Faves">Favoriten</string>
+    <string name="Create">schaffen</string>
+    <string name="Sort">Sortieren</string>
+    <string name="Refresh">erfrischen</string>
+    <string name="Details_Folder">Einzelheiten</string>
+    <string name="Open_Folder">Öffnen </string>
+    <string name="Copy_Folder">Kopieren </string>
+    <string name="Delete_Folder">löschen</string>
+    <string name="Move_Folder">Verschieben (Cut) </string>
+    <string name="Rename_Folder">Benennen </string>
+    <string name="Bookmark">Lesezeichen</string>
+    <string name="Zip_Folder">Zip-Ordner</string>
+    <string name="Paste_Folder">Einfügen in Ordner</string>
+    <string name="Name">Name:</string>
+    <string name="path">Pfad:</string>
+    <string name="size">Größe:</string>
+    <string name="Files">Dateien:</string>
+    <string name="Folder">Ordner:</string>
+    <string name="Items">Artikel:</string>
+    <string name="Modified">Geändert:</string>
+    <string name="Permissions">Berechtigungen:</string>
+    <string name="Search_for_a_file"> Suchen nach einer Datei</string>
+    <string name="Sort_Completed">Sortieren Abgeschlossene ...</string>
+    <string name="Created">Erstellt</string>
+    <string name="New_folder_was_not_created">Neuer Ordner wurde nicht erstellt</string>
+    <string name="Create_New_Directory"> Neues Verzeichnis erstellen</string>
+    <string name="items">Artikel</string>
+    <string name="Extract_here">Extrahieren Sie hier</string>
+    <string name="Compress_here">Komprimieren Sie hier</string>
+    <string name="Share">Teilen</string>
+    <string name="Add_Bookmark">Lesezeichen hinzufügen</string>
+    <string name="Bookmark_Added">Bookmark gestellt ...</string>
+    <string name="No_Bookmark_Added">Kein Bookmark Hinzugefügt ..</string>
+    <string name="bookmarklist">Bookmark Liste</string>
+    <string name="Bookmark_name_updated">Bookmark Namen aktualisiert ...</string>
+    <string name="Bookmark_Already_done">Bookmark bereits getan ...</string>
+    <string name="Searching"> Suche ...</string>
+    <string name="Searching_current_file_system">Suchen Sie aktuelle Dateisystem ...</string>
+    <string name="Copying">  Kopieren</string>
+    <string name="Copying_file"> Kopieren Datei ...</string>
+    <string name="Unzipping">  Entpacken</string>
+    <string name="Unpacking_zip_file_please_wait"> Auspacken zip-Datei, bitte warten ...</string>
+    <string name="Zipping">  Zipping</string>
+    <string name="Zipping_folder"> Zipping Ordner ...</string>
+    <string name="Deleting">  Löschen</string>
+    <string name="Deleting_files"> Löschen von Dateien ...</string>
+    <string name="Could_not_find">Konnte nicht gefunden werden</string>
+    <string name="Found"> gefunden</string>
+    <string name="files"> Datei (en)</string>
+    <string name="Copy_pasted_failed">Kopieren eingefügt gescheitert</string>
+    <string name="File_successfully_copied_and_pasted"> Erfolgreich kopierte Datei und eingefügt</string>
+    <string name="Cannot_read_folder_due_to_permissions"> Kann nicht gelesen Ordner durch Berechtigungen</string>
+    <string name="Sorry_could_not_find_a_pdf_viewer">  Sorry, nicht finden konnten, einen PDF-Viewer</string>
+    <string name="Sorry_could_not_find_a_Document_viewer">  Sorry, nicht finden konnten, einen Document Viewer</string>
+    <string name="Sorry_could_not_find_a_HTML_viewer"> Sorry, nicht finden konnten, einen HTML-Viewer</string>
+    <string name="Sorry_could_not_find_anything">  Sorry, ich konnte nichts finden </string>
+    <string name="to_open"> zu öffnen  </string>
+    <string name="Press_back_again_to_quit"> Drücken Sie wieder zu beenden.</string>
+    <string name="Multi_select_is_now_off">  Multi-select ist jetzt weg</string>
+    <string name="Please_enter_the_name">Bitte geben Sie den Namen</string>
+    <string name="Empty">frei</string>
+    <string name="Select_option">Wählen Sie eine Option</string>
+    <string name="Edit">bearbeiten</string>
+    <string name="Delete">löschen</string>
+    <string name="Rename">Benennen</string>
+    <string name="New_Name">Neuer Name</string>
+    <string name="Edit_Bookmark_Name">Lesezeichen bearbeiten Vorname</string>
+    <string name="Remove_Bookmark">entfernen Merken</string>
+    <string name="Remove_Bookmark_Successfully">Entfernen Erfolgreich Bookmark</string>
+    <string name="Bookmark_Confimation">Entfernen Merken Bestätigung</string>
+    <string name="Are_you_sure_you_want_Bookmark">Sind Sie sicher, dass Sie Lesezeichen entfernen?</string>
+    <string name="Deleted_Bookmark_Successfully">Entfernen Erfolgreich Bookmark</string>
+    <string name="Delete_Confimation">löschen bestätigen</string>
+    <string name="Are_you_sure_you_want_delete">Sind Sie sicher, dass Sie löschen möchten?</string>
+    <string name="Deleted_Successfully">erfolgreich gelöscht</string>
+    <string name="hidden"> hidden</string>
+
+    <!--
+          ***************************
+             Strings for the 'Compressing' and 'Extracting' feature
+          ***************************
+    -->
+    <string name="compressing_success">Artikel erfolgreich komprimiert</string>
+    <string name="compressing_error">Konnte nicht komprimieren das Element</string>
+    <string name="compress_into_archive">Komprimieren in das Archiv:</string>
+    <string name="extracting_success">Artikel extrahiert erfolgreich</string>
+    <string name="extracting_error">Konnte nicht extrahiert den Artikel</string>
+    <string name="extract_into_folder">Extrahieren Sie in den Ordner:</string>
+    <string name="extract_title">Wählen Sie den Ordner, in extrahieren</string>
+    <string name="extract_button">Extrahieren Sie hier</string>
+    <string name="extracting">Extrahieren von Dateien ...</string>
+    <string name="compressing">Komprimieren von Dateien ...</string>
+    <string name="warning_overwrite">Datei%s existiert. Wollen Sie es überschreiben?</string>
+    <string name="change_file_extension">Wollen Sie die Datei-Endung zu ändern?</string>
+    <string name="deletefail">konnte die Datei nicht löschen</string>
+    
+    
+   <string name="MoreApps">Mehr Apps</string>
+   
+     <string name="ContactUS">Kontaktieren Sie uns</string>
+    <string name="Contact_from">Kontakt aus</string>
+    
+     <string name="Share_App">Teilen App</string>
+       <string name="Share_Andoird">Android</string>
+       <string name="Share_Application">Anwendung</string>
+    <string name="Share_App_subject">"Ich mag"</string>
+    <string name="Share_App_Body_top">"
+hallo,
+Ich mag"</string>
+    <string name="Share_App_Body_middle">" von AppAspect Technologies Pvt. Ltd. Bitte laden Sie sich von folgendem Link
+    "</string>
+    <string name="Share_App_Body_bottom">"
+        Dank"</string>
+
+
+    
+  
+
+</resources>

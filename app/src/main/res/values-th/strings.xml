@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+      <string name="app_name">ตัวจัดการไฟล์แบบ HD (สำรวจ)</string>
+     
+     <string name="Explorer">(สำรวจ)</string>
+    
+   <string name="menu_settings">การตั้งค่า</string>
+    <string name="About_US">เกี่ยวกับเรา</string>
+    <string name="Info">ข้อมูล</string>
+    <string name="No_Internet_Connection">ไม่มีการเชื่อมต่ออินเทอร์เน็ต</string>
+    <string name="OK">ตกลง</string>
+    
+      <string name="Send">ส่ง</string>
+    <string name="Cancel">ยกเลิก</string>
+    <string name="Rate_This_App">อัตรางานนี้</string>
+    
+    <string name="action_save">ประหยัด</string>
+	<string name="File_has_been_Saved">ไฟล์ที่ได้รับการบันทึกไว้</string>
+	<string name="Could_not_save_the_file">ไม่สามารถบันทึกไฟล์</string>
+	<string name="There_are_no_email_clients_installed.">มีลูกค้าอีเมลที่ไม่ได้ติดตั้งเป็น</string>
+    
+	
+     <string name="Paste_Data">วางข้อมูล</string>
+    <string name="paste">แปะ</string>
+    <string name="home">บ้าน</string>
+    <string name="up">ขึ้น</string>
+    <string name="Back">กลับ</string>
+    <string name="Next">ต่อไป</string>
+    <string name="Search">ค้นหา</string>
+    <string name="Faves">Faves</string>
+    <string name="Create">สร้าง</string>
+    <string name="Sort">ประเภท</string>
+    <string name="Refresh">รีเฟรช</string>
+    <string name="Details_Folder">รายละเอียด</string>
+    <string name="Open_Folder">เปิด </string>
+    <string name="Copy_Folder">คัดลอก </string>
+    <string name="Delete_Folder">ลบ</string>
+    <string name="Move_Folder">ย้าย (ตัด) </string>
+    <string name="Rename_Folder">ตั้งชื่อใหม่ </string>
+    <string name="Bookmark">Bookmark</string>
+    <string name="Zip_Folder">โฟลเดอร์ซิป</string>
+    <string name="Paste_Folder">วางลงในโฟลเดอร์</string>
+    <string name="Name">ชื่อ:</string>
+    <string name="path">เส้นทาง:</string>
+    <string name="size">ขนาด:</string>
+    <string name="Files">ไฟล์:</string>
+    <string name="Folder">โฟลเดอร์:</string>
+    <string name="Items">รายการ:</string>
+    <string name="Modified">ดัดแปลง:</string>
+    <string name="Permissions">สิทธิ์:</string>
+    <string name="Search_for_a_file"> ค้นหาไฟล์</string>
+    <string name="Sort_Completed">เรียงเสร็จสมบูรณ์ ...</string>
+    <string name="Created">ที่สร้างไว้</string>
+    <string name="New_folder_was_not_created">โฟลเดอร์ใหม่ไม่ได้สร้างขึ้น</string>
+    <string name="Create_New_Directory">สร้าง Directory รุ่นใหม่</string>
+    <string name="items">รายการ</string>
+    <string name="Extract_here">สารสกัดที่นี่</string>
+    <string name="Compress_here">การบีบอัดที่นี่</string>
+    <string name="Share">หุ้น</string>
+    <string name="Add_Bookmark">เพิ่ม Bookmark</string>
+    <string name="Bookmark_Added">Bookmark เพิ่ม ...</string>
+    <string name="No_Bookmark_Added">Bookmark ไม่มีเพิ่ม ..</string>
+    <string name="bookmarklist">Bookmark รายชื่อ</string>
+    <string name="Bookmark_name_updated">ชื่อที่คั่นอัพเดต ...</string>
+    <string name="Bookmark_Already_done">Bookmark ทำมาแล้ว ...</string>
+    <string name="Searching"> ค้นหา ...</string>
+    <string name="Searching_current_file_system">ระบบค้นหาไฟล์ปัจจุบัน ...</string>
+    <string name="Copying">  การทำสำเนา</string>
+    <string name="Copying_file"> การคัดลอกไฟล์ ...</string>
+    <string name="Unzipping">ขยายไฟล์</string>
+    <string name="Unpacking_zip_file_please_wait"> เอาออกไฟล์ซิปกรุณารอสักครู่ ...</string>
+    <string name="Zipping">ซิป</string>
+    <string name="Zipping_folder"> โฟลเดอร์ซิป ...</string>
+    <string name="Deleting">  ลบ</string>
+    <string name="Deleting_files">  การลบไฟล์ ...</string>
+    <string name="Could_not_find">ไม่สามารถหา </string>
+    <string name="Found">พบ</string>
+    <string name="files"> ไฟล์ (s)</string>
+    <string name="Copy_pasted_failed">คัดลอกวางล้มเหลว</string>
+    <string name="File_successfully_copied_and_pasted"> คัดลอกไฟล์ที่ประสบความสำเร็จและวาง</string>
+    <string name="Cannot_read_folder_due_to_permissions"> ไม่สามารถอ่านโฟลเดอร์เนื่องจากสิทธิ์</string>
+    <string name="Sorry_could_not_find_a_pdf_viewer"> ขออภัยเราไม่สามารถหาดูรูปแบบไฟล์ PDF</string>
+    <string name="Sorry_could_not_find_a_Document_viewer"> ขออภัยเราไม่สามารถหาดูเอกสาร</string>
+    <string name="Sorry_could_not_find_a_HTML_viewer">ขออภัยเราไม่สามารถหาดู HTML</string>
+    <string name="Sorry_could_not_find_anything"> ขออภัยไม่พบอะไร </string>
+    <string name="to_open"> เพื่อเปิด  </string>
+    <string name="Press_back_again_to_quit"> กดกลับมาอีกครั้งที่จะเลิก</string>
+    <string name="Multi_select_is_now_off"> แบบ Multi-เลือกอยู่ในขณะนี้ออก</string>
+    <string name="Please_enter_the_name">กรุณากรอกชื่อ</string>
+    <string name="Empty">ว่างเปล่า</string>
+    <string name="Select_option">เลือกตัวเลือก</string>
+    <string name="Edit">แก้ไข</string>
+    <string name="Delete">ลบ</string>
+    <string name="Rename">ตั้งชื่อใหม่</string>
+    <string name="New_Name">ชื่อใหม่</string>
+    <string name="Edit_Bookmark_Name">แก้ไขชื่อที่คั่นหน้า</string>
+    <string name="Remove_Bookmark">ลบ Bookmark</string>
+    <string name="Remove_Bookmark_Successfully">ลบ Bookmark ประสบความสำเร็จ</string>
+    <string name="Bookmark_Confimation">ลบ Bookmark ยืนยัน</string>
+    <string name="Are_you_sure_you_want_Bookmark">คุณแน่ใจหรือว่าต้องการลบ Bookmark?</string>
+    <string name="Deleted_Bookmark_Successfully">ลบ Bookmark ประสบความสำเร็จ</string>
+    <string name="Delete_Confimation">ลบการยืนยัน</string>
+    <string name="Are_you_sure_you_want_delete">คุณแน่ใจหรือว่าต้องการลบ?</string>
+    <string name="Deleted_Successfully">ที่ถูกลบเรียบร้อยแล้ว</string>
+    <string name="hidden"> ซ่อน</string>
+
+    <!--
+          ***************************
+             Strings for the 'Compressing' and 'Extracting' feature
+          ***************************
+    -->
+    <string name="compressing_success">รายการที่ประสบความสำเร็จในการบีบอัด</string>
+    <string name="compressing_error">ไม่สามารถบีบอัดรายการ</string>
+    <string name="compress_into_archive">บีบอัดเข้าไปเก็บ:</string>
+    <string name="extracting_success">รายการที่ประสบความสำเร็จในการสกัด</string>
+    <string name="extracting_error">ไม่สามารถดึงรายการ</string>
+    <string name="extract_into_folder">สารสกัดลงในโฟลเดอร์:</string>
+    <string name="extract_title">เลือกโฟลเดอร์ที่จะดึงเข้ามา</string>
+    <string name="extract_button">สารสกัดที่นี่</string>
+    <string name="extracting">แยกไฟล์ ...</string>
+    <string name="compressing">การบีบอัดไฟล์ ...</string>
+    <string name="warning_overwrite">ไฟล์%s มีอยู่ คุณต้องการที่จะเขียนทับหรือไม่</string>
+    <string name="change_file_extension">คุณต้องการที่จะเปลี่ยนนามสกุลไฟล์หรือไม่</string>
+    <string name="deletefail">ไม่สามารถลบไฟล์</string>
+    
+    
+    
+     <string name="MoreApps">ซอฟแวร์อื่น ๆ</string>
+   
+     <string name="ContactUS">ติดต่อเรา</string>
+    <string name="Contact_from">ติดต่อจาก</string>
+     <string name="Share_App">App แบ่งปัน</string>
+       <string name="Share_Andoird">Android</string>
+       <string name="Share_Application">ใบสมัคร</string>
+    <string name="Share_App_subject">"ผมชอบ"</string>
+    <string name="Share_App_Body_top">"
+สวัสดี
+ผมชอบ "</string>
+    <string name="Share_App_Body_middle">" โดย AppAspect Technologies Pvt. Ltd. กรุณาดาวน์โหลดได้จากลิงค์ต่อไปนี้
+    "</string>
+    <string name="Share_App_Body_bottom">"
+        ขอบคุณ"</string>
+   
+
+  
+</resources>

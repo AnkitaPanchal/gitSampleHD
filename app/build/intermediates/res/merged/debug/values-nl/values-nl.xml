@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="About_US">over ons</string>
+    <string name="Add_Bookmark">Voeg bladwijzer</string>
+    <string name="Are_you_sure_you_want_Bookmark">Weet u zeker dat u wilt Bookmark verwijderen?</string>
+    <string name="Are_you_sure_you_want_delete">Weet u zeker dat u wilt verwijderen?</string>
+    <string name="Back">terug</string>
+    <string name="Bookmark">bladwijzer</string>
+    <string name="Bookmark_Added">Bookmark toegevoegd ...</string>
+    <string name="Bookmark_Already_done">Bookmark Is al gedaan ...</string>
+    <string name="Bookmark_Confimation">Verwijderen Bookmark Bevestiging</string>
+    <string name="Bookmark_name_updated">Bookmark naam bijgewerkt ...</string>
+    <string name="Cancel">annuleren</string>
+    <string name="Cannot_read_folder_due_to_permissions">Kan niet lezen map vanwege permissies</string>
+    <string name="Compress_here">comprimeren hier</string>
+    <string name="ContactUS">Contacteer ons</string>
+    <string name="Contact_from">contact uit</string>
+    <string name="Copy_Folder">kopiëren </string>
+    <string name="Copy_pasted_failed">Kopiëren geplakt is mislukt</string>
+    <string name="Copying">kopiëren</string>
+    <string name="Copying_file"> Het kopiëren van bestanden ...</string>
+    <string name="Could_not_find">Kon het niet vinden </string>
+    <string name="Could_not_save_the_file">Kan het bestand niet opslaan</string>
+    <string name="Create">creëren</string>
+    <string name="Create_New_Directory">Maken Nieuw Directory</string>
+    <string name="Created">gemaakt</string>
+    <string name="Delete">verwijderen</string>
+    <string name="Delete_Confimation">Verwijdering bevestiging</string>
+    <string name="Delete_Folder">verwijderen</string>
+    <string name="Deleted_Bookmark_Successfully">Verwijderen Bookmark Succesvol</string>
+    <string name="Deleted_Successfully">succesvol verwijderd</string>
+    <string name="Deleting">  schrappen</string>
+    <string name="Deleting_files">Verwijderen van bestanden ...</string>
+    <string name="Details_Folder">Details</string>
+    <string name="Edit">uitgeven</string>
+    <string name="Edit_Bookmark_Name">Bewerk Bookmark Naam</string>
+    <string name="Empty">leeg</string>
+    <string name="Explorer">(Explorer)</string>
+    <string name="Extract_here">extract hier</string>
+    <string name="Faves">Uitdagen</string>
+    <string name="File_has_been_Saved">Bestand is opgeslagen</string>
+    <string name="File_successfully_copied_and_pasted"> Bestand met succes gekopieerd en geplakt</string>
+    <string name="Files">bestanden:</string>
+    <string name="Folder">map:</string>
+    <string name="Found"> gevonden</string>
+    <string name="Info">Info</string>
+    <string name="Items">artikelen:</string>
+    <string name="Modified">gewijzigd:</string>
+    <string name="MoreApps">meer Apps</string>
+    <string name="Move_Folder">Verplaatsen (Cut) </string>
+    <string name="Multi_select_is_now_off"> Multi-select is nu uitgeschakeld</string>
+    <string name="Name">naam:</string>
+    <string name="New_Name">nieuwe naam</string>
+    <string name="New_folder_was_not_created">Nieuwe map is niet gemaakt</string>
+    <string name="Next">volgende</string>
+    <string name="No_Bookmark_Added">Geen Bookmark toegevoegd ..</string>
+    <string name="No_Internet_Connection">Geen Internetverbinding</string>
+    <string name="OK">OK</string>
+    <string name="Open_Folder">Open </string>
+    <string name="Paste_Data">plak gegevens</string>
+    <string name="Paste_Folder">Plakken in Folder</string>
+    <string name="Permissions">toestemmingen:</string>
+    <string name="Please_enter_the_name">Vul de naam</string>
+    <string name="Press_back_again_to_quit"> Druk nogmaals terug om te stoppen.</string>
+    <string name="Rate_This_App">Beoordeel deze applicatie</string>
+    <string name="Refresh">verversen</string>
+    <string name="Remove_Bookmark">verwijderen bladwijzer</string>
+    <string name="Remove_Bookmark_Successfully">Verwijderen Bookmark Succesvol</string>
+    <string name="Rename">andere naam geven</string>
+    <string name="Rename_Folder">andere naam geven </string>
+    <string name="Search">zoeken</string>
+    <string name="Search_for_a_file"> Zoeken naar een bestand</string>
+    <string name="Searching"> Searching...</string>
+    <string name="Searching_current_file_system"> Searching huidige bestandssysteem ...</string>
+    <string name="Select_option">Selecteer Optie</string>
+    <string name="Send">sturen</string>
+    <string name="Share">aandeel</string>
+    <string name="Share_Andoird">Android</string>
+    <string name="Share_App">Share App</string>
+    <string name="Share_App_Body_bottom">"
+        dank"</string>
+    <string name="Share_App_Body_middle">" door AppAspect Technologies Pvt. Ltd. Download dan vanaf volgende koppeling
+    "</string>
+    <string name="Share_App_Body_top">"
+hello,
+ik hou"</string>
+    <string name="Share_App_subject">"ik hou"</string>
+    <string name="Share_Application">toepassing</string>
+    <string name="Sorry_could_not_find_a_Document_viewer"> Sorry, kan een document viewer niet vinden</string>
+    <string name="Sorry_could_not_find_a_HTML_viewer"> Sorry, kan een HTML-viewer niet vinden</string>
+    <string name="Sorry_could_not_find_a_pdf_viewer"> Sorry, kan een pdf-viewer niet vinden</string>
+    <string name="Sorry_could_not_find_anything"> Sorry, kon niets vinden </string>
+    <string name="Sort">sorteren</string>
+    <string name="Sort_Completed">Sorteer Voltooide ...</string>
+    <string name="There_are_no_email_clients_installed.">Er zijn geen e-mail clients geïnstalleerd.</string>
+    <string name="Unpacking_zip_file_please_wait"> Uitpakken zip-bestand even geduld ...</string>
+    <string name="Unzipping">  Unzipping</string>
+    <string name="Zip_Folder">Zip Folder</string>
+    <string name="Zipping">  zippen</string>
+    <string name="Zipping_folder">  Zipping folder...</string>
+    <string name="action_save">besparen</string>
+    <string name="app_name">File Manager HD (Explorer)</string>
+    <string name="bookmarklist">Bookmark List</string>
+    <string name="change_file_extension">Wilt u de bestandsextensie wijzigen?</string>
+    <string msgid="4770915072144378781" name="common_google_play_services_api_unavailable_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> vereist een of meer Google Play-services die momenteel niet beschikbaar zijn. Neem contact op met de ontwikkelaar voor ondersteuning."</string>
+    <string msgid="2050101795821476669" name="common_google_play_services_enable_button">"Google Play-services inschak."</string>
+    <string msgid="7045129128108380659" name="common_google_play_services_enable_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> werkt niet, tenzij je Google Play-services inschakelt."</string>
+    <string msgid="3147157405986503375" name="common_google_play_services_enable_title">"Google Play-services inschakelen"</string>
+    <string msgid="7118643132557593940" name="common_google_play_services_install_button">"Google Play-services ophalen"</string>
+    <string msgid="1666261992894286769" name="common_google_play_services_install_text_phone">"<ns1:g id="APP_NAME">%1$s</ns1:g> kan niet worden uitgevoerd zonder Google Play-services, die ontbreken op je telefoon."</string>
+    <string msgid="1701766622451829291" name="common_google_play_services_install_text_tablet">"<ns1:g id="APP_NAME">%1$s</ns1:g> kan niet worden uitgevoerd zonder Google Play-services, die ontbreken op je tablet."</string>
+    <string msgid="7442193194585196676" name="common_google_play_services_install_title">"Google Play-services ophalen"</string>
+    <string msgid="479501935061677276" name="common_google_play_services_invalid_account_text">"Het gespecificeerde account bestaat niet op dit apparaat. Kies een ander account."</string>
+    <string msgid="5775407690646375078" name="common_google_play_services_invalid_account_title">"Ongeldig account"</string>
+    <string msgid="6857745590248226927" name="common_google_play_services_network_error_text">"Er is een gegevensverbinding nodig om verbinding te maken met Google Play-services."</string>
+    <string msgid="4183541461338112307" name="common_google_play_services_network_error_title">"Netwerkfout"</string>
+    <string msgid="180394615667698242" name="common_google_play_services_notification_ticker">"Fout met Google Play-services"</string>
+    <string msgid="8897126254633757462" name="common_google_play_services_resolution_required_text">"Voltooi de actie die wordt vereist door <ns1:g id="APP_NAME">%1$s</ns1:g>."</string>
+    <string msgid="7524004365913123453" name="common_google_play_services_resolution_required_title">"Actie vereist voor Google Play-services"</string>
+    <string msgid="3111284987662714014" name="common_google_play_services_restricted_profile_text">"Toegang tot accounts uit een beperkt profiel wordt niet ondersteund."</string>
+    <string msgid="8137798410446890929" name="common_google_play_services_restricted_profile_title">"Beperkt profiel"</string>
+    <string msgid="2431909537598981235" name="common_google_play_services_sign_in_failed_text">"Fout bij inloggen op het opgegeven account. Kies een ander account."</string>
+    <string msgid="4402642931312190213" name="common_google_play_services_sign_in_failed_title">"Inloggen mislukt"</string>
+    <string msgid="9089562800660647919" name="common_google_play_services_unknown_issue">"<ns1:g id="APP_NAME">%1$s</ns1:g> ondervindt problemen met Google Play-services. Als het probleem aanhoudt, neem je contact op met de ontwikkelaar voor ondersteuning."</string>
+    <string msgid="1064791666906610763" name="common_google_play_services_unsupported_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> werkt met Google Play-services. Dit wordt niet ondersteund door je apparaat. Neem contact op met de fabrikant voor ondersteuning."</string>
+    <string msgid="539866123733096737" name="common_google_play_services_unsupported_title">"Google Play-services"</string>
+    <string msgid="8172070149091615356" name="common_google_play_services_update_button">"Updaten"</string>
+    <string msgid="7773943415006962566" name="common_google_play_services_update_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> kan niet worden uitgevoerd, tenzij je Google Play-services updatet."</string>
+    <string msgid="8706675115216073244" name="common_google_play_services_update_title">"Google Play-services updaten"</string>
+    <string msgid="7894275749778928941" name="common_google_play_services_updating_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> kan niet worden uitgevoerd zonder Google Play-services, die momenteel worden geüpdatet."</string>
+    <string msgid="2270671469198016014" name="common_google_play_services_updating_title">"Google Play-services worden geüpdatet"</string>
+    <string msgid="2804989272736383918" name="common_google_play_services_wear_update_text">"Er is een nieuwe versie van Google Play-services vereist. De update wordt binnenkort automatisch uitgevoerd."</string>
+    <string msgid="5201977337835724196" name="common_open_on_phone">"Openen op telefoon"</string>
+    <string msgid="3441753203274453993" name="common_signin_button_text">"Inloggen"</string>
+    <string msgid="669893613918351210" name="common_signin_button_text_long">"Inloggen met Google"</string>
+    <string name="compress_into_archive">Comprimeren in archief:</string>
+    <string name="compressing">Comprimeren van bestanden ...</string>
+    <string name="compressing_error">Kon het item niet te comprimeren</string>
+    <string name="compressing_success">Item succes gecomprimeerd</string>
+    <string name="deletefail">kon het bestand niet verwijderen</string>
+    <string name="extract_button">extract hier</string>
+    <string name="extract_into_folder">Uit te pakken in de map:</string>
+    <string name="extract_title">Selecteer de map aan te pakken in</string>
+    <string name="extracting">Het uitpakken van bestanden ...</string>
+    <string name="extracting_error">Kon niet het item uit te pakken</string>
+    <string name="extracting_success">Punt gehaald succes</string>
+    <string name="files"> file(s)</string>
+    <string name="hidden"> verborgen</string>
+    <string name="home">huis</string>
+    <string name="items">artikelen</string>
+    <string name="menu_settings">instellingen</string>
+    <string name="paste">plakken</string>
+    <string name="path">pad:</string>
+    <string name="size">maat:</string>
+    <string name="to_open"> te openen </string>
+    <string name="up">omhoog</string>
+    <string name="warning_overwrite">Bestand%s bestaat. Wilt u het overschrijven?</string>
+</resources>

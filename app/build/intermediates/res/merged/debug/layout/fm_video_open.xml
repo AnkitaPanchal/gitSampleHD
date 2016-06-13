@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+
+
+    <WebView
+        android:id="@+id/containWebView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:visibility="gone"></WebView>
+
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:orientation="vertical"
+        android:layout_gravity="center"
+        android:gravity="center">
+
+
+        <LinearLayout
+            android:id="@+id/llheader"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:visibility="gone"
+            >
+
+            <include
+                android:id="@+id/stopscanheader"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                layout="@layout/header_layout" />
+
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_gravity="center"
+            android:layout_below="@id/llheader"
+            android:gravity="center">
+
+            <org.videolan.libvlc.media.VideoView
+                android:id="@+id/video"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:layout_alignParentTop="true"
+                android:layout_alignParentBottom="true"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentRight="true"
+                android:layout_gravity="center"
+                android:orientation="vertical"
+
+                />
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+
+
+
+
+    <FrameLayout
+        android:id="@+id/fmlayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="bottom"
+        android:layout_gravity="bottom"
+        android:orientation="horizontal"
+        android:visibility="gone">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            >
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+                <SeekBar
+                    android:id="@+id/seekbarvideo"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:progressDrawable="@drawable/red_scrubber_progress"
+                    android:maxHeight="2dp"
+                    android:background="#cc000000"
+                    android:minHeight="2dp" android:thumb="@android:drawable/btn_radio"
+                    android:thumbTintMode="multiply"/>
+            </LinearLayout>
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="#cc000000"
+                android:orientation="horizontal"
+                >
+                <LinearLayout
+                    android:layout_width="0dp"
+                    android:layout_weight=".33"
+                    android:layout_height="match_parent"
+                    >
+
+                    <TextView
+                        android:id="@+id/txtremaningtime"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:text="00:00"
+                        android:textColor="@android:color/white"
+                        android:textStyle="bold"
+                        android:textSize="16dp"
+                        android:layout_gravity="bottom"
+                        android:gravity="left|bottom"
+                        android:layout_margin="5dp"/>
+
+
+                </LinearLayout>
+                <LinearLayout
+                    android:layout_width="0dp"
+                    android:layout_weight=".33"
+                    android:layout_height="match_parent"
+                    android:layout_gravity="center"
+                    android:gravity="center">
+
+                    <ImageView
+                        android:id="@+id/btnstartvideo"
+                        android:layout_width="50dp"
+                        android:layout_height="50dp"
+                        android:text="@string/start"
+                        android:layout_marginBottom="5dp"
+                        android:background="@drawable/play"
+                        android:layout_gravity="bottom|center"
+                        android:visibility="gone"/>
+
+
+                    <ImageView
+                        android:id="@+id/btnpausevideo"
+                        android:layout_width="50dp"
+                        android:layout_height="50dp"
+                        android:text="@string/pause"
+                        android:layout_marginBottom="5dp"
+                        android:background="@drawable/pause"
+                        android:layout_gravity="bottom|center"
+
+
+                        />
+                    <ImageView
+                        android:id="@+id/btnstopvideo"
+                        android:layout_width="50dp"
+                        android:layout_height="50dp"
+                        android:text="@string/stop"
+                        android:layout_marginBottom="5dp"
+                        android:layout_gravity="bottom|center"
+                        android:background="@drawable/stop"
+                        android:visibility="gone"/>
+
+
+
+                </LinearLayout>
+                <LinearLayout
+                    android:layout_width="0dp"
+                    android:layout_weight=".33"
+                    android:layout_height="match_parent">
+
+                    <TextView
+                        android:id="@+id/txttotaltime"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:text="00:00"
+                        android:textColor="@android:color/white"
+                        android:textStyle="bold"
+                        android:textSize="16dp"
+                        android:layout_gravity="right|bottom"
+                        android:gravity="right|bottom"
+                        android:layout_margin="5dp"/>
+
+
+                </LinearLayout>
+            </LinearLayout>
+
+
+        </LinearLayout>
+    </FrameLayout>
+</FrameLayout>

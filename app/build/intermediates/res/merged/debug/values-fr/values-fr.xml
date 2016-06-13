@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="About_US">À propos de nous</string>
+    <string name="Add_Bookmark">Ajouter un signet</string>
+    <string name="Are_you_sure_you_want_Bookmark">Etes-vous sûr que vous voulez supprimer un signet?</string>
+    <string name="Are_you_sure_you_want_delete">Etes-vous sûr de vouloir supprimer?</string>
+    <string name="Back">Retour</string>
+    <string name="Bookmark">Bookmark</string>
+    <string name="Bookmark_Added">Favori ajouté ...</string>
+    <string name="Bookmark_Already_done">Bookmark Déjà fait ...</string>
+    <string name="Bookmark_Confimation">Supprimer le signet Confirmation</string>
+    <string name="Bookmark_name_updated">Nom du signet mis à jour ...</string>
+    <string name="Cancel">résilier</string>
+    <string name="Cannot_read_folder_due_to_permissions"> Impossible de lire le dossier en raison d\'autorisations</string>
+    <string name="Compress_here">compresser ici</string>
+    <string name="ContactUS">Contactez-nous</string>
+    <string name="Contact_from">Contactez à partir de</string>
+    <string name="Copy_Folder">copiez </string>
+    <string name="Copy_pasted_failed">Copier collé échoué</string>
+    <string name="Copying">  Copie</string>
+    <string name="Copying_file"> Copie du fichier ...</string>
+    <string name="Could_not_find">N\'a pas pu trouver </string>
+    <string name="Could_not_save_the_file">Impossible d\'enregistrer le fichier</string>
+    <string name="Create">créer</string>
+    <string name="Create_New_Directory"> Créer un nouveau répertoire</string>
+    <string name="Created">établi</string>
+    <string name="Delete">supprimer</string>
+    <string name="Delete_Confimation">Confirmation de la suppression</string>
+    <string name="Delete_Folder">supprimer </string>
+    <string name="Deleted_Bookmark_Successfully">Supprimer le signet succès</string>
+    <string name="Deleted_Successfully">supprimé avec succès</string>
+    <string name="Deleting">  suppression</string>
+    <string name="Deleting_files">  Suppression de fichiers ...</string>
+    <string name="Details_Folder">Détails</string>
+    <string name="Edit">Modifier</string>
+    <string name="Edit_Bookmark_Name">Modifier Nom du signet</string>
+    <string name="Empty">vide</string>
+    <string name="Explorer">(explorateur)</string>
+    <string name="Extract_here">extraire ici</string>
+    <string name="Faves">favoris</string>
+    <string name="File_has_been_Saved">Fichier a été enregistré</string>
+    <string name="File_successfully_copied_and_pasted"> Fichier copié et collé avec succès</string>
+    <string name="Files">fichiers:</string>
+    <string name="Folder">dossier:</string>
+    <string name="Found"> trouvé</string>
+    <string name="Info">Infos</string>
+    <string name="Items">articles:</string>
+    <string name="Modified">modifié:</string>
+    <string name="MoreApps">plus d\'apps</string>
+    <string name="Move_Folder">Déplacez (Cut) </string>
+    <string name="Multi_select_is_now_off">  Multi-Select est maintenant éteint</string>
+    <string name="Name">nom:</string>
+    <string name="New_Name">nouveau nom</string>
+    <string name="New_folder_was_not_created">Nouveau dossier n\'a pas été créé</string>
+    <string name="Next">Suivant</string>
+    <string name="No_Bookmark_Added">Pas Favori ajouté ..</string>
+    <string name="No_Internet_Connection">Pas de connexion Internet</string>
+    <string name="OK">bien</string>
+    <string name="Open_Folder">Ouvert </string>
+    <string name="Paste_Data">coller des données</string>
+    <string name="Paste_Folder">Coller dans le dossier</string>
+    <string name="Permissions">Permissions:</string>
+    <string name="Please_enter_the_name">S\'il vous plaît entrez le nom</string>
+    <string name="Press_back_again_to_quit"> Appuyez à nouveau revenir à cesser de fumer.</string>
+    <string name="Rate_This_App">Noter cette application</string>
+    <string name="Refresh">Actualiser</string>
+    <string name="Remove_Bookmark">supprimer le signet</string>
+    <string name="Remove_Bookmark_Successfully">Supprimer le signet succès</string>
+    <string name="Rename">renommez</string>
+    <string name="Rename_Folder">renommez </string>
+    <string name="Search">Rechercher</string>
+    <string name="Search_for_a_file"> Rechercher un fichier</string>
+    <string name="Searching"> Recherche ...</string>
+    <string name="Searching_current_file_system"> Recherche système de fichier en cours ...</string>
+    <string name="Select_option">Sélectionnez l\'option</string>
+    <string name="Send">Envoyer</string>
+    <string name="Share">Partager</string>
+    <string name="Share_Andoird">Android</string>
+    <string name="Share_App">Partager App</string>
+    <string name="Share_App_Body_bottom">"
+        Merci"</string>
+    <string name="Share_App_Body_middle">" par AppAspect Technologies Pvt. Ltd. S'il vous plaît télécharger à partir lien suivant
+    "</string>
+    <string name="Share_App_Body_top">"
+Bonjour,
+J\'aime "</string>
+    <string name="Share_App_subject">"J\'aime"</string>
+    <string name="Share_Application">demande</string>
+    <string name="Sorry_could_not_find_a_Document_viewer">Désolé, pas pu trouver un visualiseur de document</string>
+    <string name="Sorry_could_not_find_a_HTML_viewer">Désolé, pas pu trouver un viewer HTML</string>
+    <string name="Sorry_could_not_find_a_pdf_viewer">  Désolé, pas pu trouver un lecteur PDF</string>
+    <string name="Sorry_could_not_find_anything">  Désolé, rien de trouvé </string>
+    <string name="Sort">Trier</string>
+    <string name="Sort_Completed">Trier Terminé ...</string>
+    <string name="There_are_no_email_clients_installed.">Il n\'y a pas de clients de messagerie installés.</string>
+    <string name="Unpacking_zip_file_please_wait"> Déballage fichier zip veuillez patienter ...</string>
+    <string name="Unzipping">  unzipping</string>
+    <string name="Zip_Folder">Dossier Zip</string>
+    <string name="Zipping">Compresser</string>
+    <string name="Zipping_folder">  Compresser dossier ...</string>
+    <string name="action_save">sauver</string>
+    <string name="app_name">Gestionnaire de fichiers(explorateur)</string>
+    <string name="bookmarklist">Bookmark List</string>
+    <string name="change_file_extension">Voulez-vous changer l\'extension du fichier?</string>
+    <string msgid="4770915072144378781" name="common_google_play_services_api_unavailable_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> nécessite un ou plusieurs services Google Play qui ne sont pas disponibles actuellement. Veuillez contacter le développeur pour obtenir de l\'aide."</string>
+    <string msgid="2050101795821476669" name="common_google_play_services_enable_button">"Activer services Google Play"</string>
+    <string msgid="7045129128108380659" name="common_google_play_services_enable_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> ne fonctionnera pas tant que vous n\'aurez pas activé les services Google Play."</string>
+    <string msgid="3147157405986503375" name="common_google_play_services_enable_title">"Activer les services Google Play"</string>
+    <string msgid="7118643132557593940" name="common_google_play_services_install_button">"Installer les services Google Play"</string>
+    <string msgid="1666261992894286769" name="common_google_play_services_install_text_phone">"<ns1:g id="APP_NAME">%1$s</ns1:g> ne fonctionnera pas sans les services Google Play, qui ne sont pas installés sur votre téléphone."</string>
+    <string msgid="1701766622451829291" name="common_google_play_services_install_text_tablet">"<ns1:g id="APP_NAME">%1$s</ns1:g> ne fonctionnera pas sans les services Google Play, qui ne sont pas installés sur votre tablette."</string>
+    <string msgid="7442193194585196676" name="common_google_play_services_install_title">"Installer les services Google Play"</string>
+    <string msgid="479501935061677276" name="common_google_play_services_invalid_account_text">"Le compte indiqué n\'existe pas sur cet appareil. Veuillez sélectionner un autre compte."</string>
+    <string msgid="5775407690646375078" name="common_google_play_services_invalid_account_title">"Compte erroné"</string>
+    <string msgid="6857745590248226927" name="common_google_play_services_network_error_text">"Vous devez disposer d\'une connexion de données pour utiliser les services Google Play."</string>
+    <string msgid="4183541461338112307" name="common_google_play_services_network_error_title">"Erreur réseau"</string>
+    <string msgid="180394615667698242" name="common_google_play_services_notification_ticker">"Erreur liée aux services Google Play"</string>
+    <string msgid="8897126254633757462" name="common_google_play_services_resolution_required_text">"Veuillez effectuer l\'action requise par l\'application <ns1:g id="APP_NAME">%1$s</ns1:g>."</string>
+    <string msgid="7524004365913123453" name="common_google_play_services_resolution_required_title">"Action requise par services Google Play"</string>
+    <string msgid="3111284987662714014" name="common_google_play_services_restricted_profile_text">"L\'accès aux comptes à partir d\'un profil limité n\'est pas possible."</string>
+    <string msgid="8137798410446890929" name="common_google_play_services_restricted_profile_title">"Profil limité"</string>
+    <string msgid="2431909537598981235" name="common_google_play_services_sign_in_failed_text">"Erreur lors de la connexion au compte indiqué. Veuillez en sélectionner un autre."</string>
+    <string msgid="4402642931312190213" name="common_google_play_services_sign_in_failed_title">"Échec de la connexion"</string>
+    <string msgid="9089562800660647919" name="common_google_play_services_unknown_issue">"L\'application <ns1:g id="APP_NAME">%1$s</ns1:g> rencontre des problèmes avec les services Google Play. Si le problème persiste, veuillez contacter le développeur pour obtenir de l\'aide."</string>
+    <string msgid="1064791666906610763" name="common_google_play_services_unsupported_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> dépend des services Google Play, qui ne sont pas compatibles avec votre appareil. Veuillez contacter le fabricant pour obtenir de l\'aide."</string>
+    <string msgid="539866123733096737" name="common_google_play_services_unsupported_title">"Services Google Play"</string>
+    <string msgid="8172070149091615356" name="common_google_play_services_update_button">"Mettre à jour"</string>
+    <string msgid="7773943415006962566" name="common_google_play_services_update_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> ne fonctionnera pas tant que vous n\'aurez pas mis à jour les services Google Play."</string>
+    <string msgid="8706675115216073244" name="common_google_play_services_update_title">"Mettre à jour les services Google Play"</string>
+    <string msgid="7894275749778928941" name="common_google_play_services_updating_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> ne fonctionnera pas sans les services Google Play, qui sont en cours de mise à jour."</string>
+    <string msgid="2270671469198016014" name="common_google_play_services_updating_title">"Mise à jour des services Google Play"</string>
+    <string msgid="2804989272736383918" name="common_google_play_services_wear_update_text">"La nouvelle version des services Google Play est nécessaire. Elle sera bientôt installée automatiquement."</string>
+    <string msgid="5201977337835724196" name="common_open_on_phone">"Ouvrir sur le téléphone"</string>
+    <string msgid="3441753203274453993" name="common_signin_button_text">"Se connecter"</string>
+    <string msgid="669893613918351210" name="common_signin_button_text_long">"Se connecter avec Google"</string>
+    <string name="compress_into_archive">Compresser en archive:</string>
+    <string name="compressing">Compresser des fichiers ...</string>
+    <string name="compressing_error">Impossible de compresser le point</string>
+    <string name="compressing_success">Article comprimé avec succès</string>
+    <string name="deletefail">ne pouvait pas supprimer le fichier</string>
+    <string name="extract_button">extraire ici</string>
+    <string name="extract_into_folder">Extraire dans le dossier:</string>
+    <string name="extract_title">Sélectionnez le dossier à extraire dans</string>
+    <string name="extracting">Extraire les fichiers ...</string>
+    <string name="extracting_error">Impossible d\'extraire l\'élément</string>
+    <string name="extracting_success">Article extrait avec succès</string>
+    <string name="files"> fichier (s)</string>
+    <string name="hidden"> caché</string>
+    <string name="home">maison</string>
+    <string name="items">items</string>
+    <string name="menu_settings">réglages</string>
+    <string name="paste">coller</string>
+    <string name="path">chemin:</string>
+    <string name="size">Taille:</string>
+    <string name="to_open"> pour ouvrir  </string>
+    <string name="up">Up</string>
+    <string name="warning_overwrite">Le fichier%s existe. Voulez-vous le remplacer?</string>
+</resources>

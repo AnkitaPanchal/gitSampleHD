@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        >
+        <include
+            android:id="@+id/stopscanheader"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            layout="@layout/header_layout" />
+        <include
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            layout="@layout/adview_layout"
+            android:layout_marginTop="10dp"
+            android:background="@android:color/transparent" />
+    </LinearLayout>
+
+
+    <ImageView
+        android:id="@+id/imgthumnail"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        />
+
+
+    <FrameLayout
+        android:id="@+id/fmlayoutaudio"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="bottom"
+        android:layout_gravity="bottom"
+        android:orientation="horizontal"
+        >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            >
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="1"
+                >
+                <SeekBar
+                    android:id="@+id/seekbar"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:progressDrawable="@drawable/red_scrubber_progress"
+                    android:layout_marginTop="100dp"
+                    android:maxHeight="2dp"
+                    android:background="#cc000000"
+                    android:minHeight="2dp" android:thumb="@android:drawable/btn_radio"
+                    android:thumbTintMode="multiply"/>
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="1"
+                android:background="#cc000000"
+                android:orientation="horizontal"
+                >
+
+
+                <LinearLayout
+                    android:layout_width="0dp"
+                    android:layout_weight=".33"
+                    android:layout_height="match_parent"
+                    >
+
+                    <TextView
+                        android:id="@+id/txtremaningtimeaudio"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:text="00:00"
+                        android:textColor="@android:color/white"
+                        android:textStyle="bold"
+                        android:textSize="16dp"
+                        android:layout_gravity="bottom"
+                        android:gravity="bottom|left"
+                        android:layout_margin="5dp"/>
+
+
+                </LinearLayout>
+                <LinearLayout
+                    android:layout_width="0dp"
+                    android:layout_weight=".33"
+                    android:layout_height="match_parent"
+                    android:layout_gravity="center"
+                    android:gravity="center">
+
+                    <ImageView
+                        android:id="@+id/btnstart"
+                        android:layout_width="50dp"
+                        android:layout_height="50dp"
+                        android:text="@string/start"
+                        android:layout_marginBottom="5dp"
+                        android:background="@drawable/play"
+                        android:layout_below="@id/seekbar"
+                        android:layout_gravity="bottom|center"
+                        android:visibility="gone"/>
+
+
+                    <ImageView
+                        android:id="@+id/btnpause"
+                        android:layout_width="50dp"
+                        android:layout_height="50dp"
+                        android:text="@string/pause"
+                        android:layout_below="@id/seekbar"
+                        android:layout_marginBottom="5dp"
+                        android:background="@drawable/pause"
+                        android:layout_gravity="bottom|center"
+
+
+                        />
+                    <ImageView
+                        android:id="@+id/btnstop"
+                        android:layout_width="50dp"
+                        android:layout_height="50dp"
+                        android:text="@string/stop"
+                        android:layout_marginBottom="5dp"
+                        android:layout_below="@id/seekbar"
+                        android:layout_gravity="bottom|center"
+                        android:background="@drawable/stop"
+                        android:visibility="gone"/>
+
+
+
+                </LinearLayout>
+                <LinearLayout
+                    android:layout_width="0dp"
+                    android:layout_weight=".33"
+                    android:layout_height="match_parent">
+
+                    <TextView
+                        android:id="@+id/txttotaltimeaudio"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:text="00:00"
+                        android:textColor="@android:color/white"
+                        android:textStyle="bold"
+                        android:textSize="16dp"
+                        android:layout_gravity="bottom|right"
+                        android:gravity="bottom|right"
+                        android:layout_margin="5dp"/>
+
+
+                </LinearLayout>
+
+
+
+
+            </LinearLayout>
+
+
+
+        </LinearLayout>
+
+
+    </FrameLayout>
+
+
+
+
+
+</FrameLayout>

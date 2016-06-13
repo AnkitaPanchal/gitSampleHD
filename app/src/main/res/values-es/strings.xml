@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+     <string name="app_name">gestor de archivos (explorador)</string>
+     
+     <string name="Explorer">(explorador)</string>
+    
+   <string name="OK">Aceptar</string>
+  <string name="Send">enviar</string>
+    <string name="Cancel">cancelar</string>
+    <string name="Rate_This_App">Calificar esta aplicación</string>
+    <string name="menu_settings">Configuración</string>
+    <string name="About_US">¿Quiénes somos?</string>
+    <string name="Info">Info</string>
+    <string name="No_Internet_Connection">Sin conexión a Internet</string>
+
+    <string name="action_save">guardar</string>
+	<string name="File_has_been_Saved">El archivo se ha guardado</string>
+	<string name="Could_not_save_the_file">No se pudo guardar el archivo</string>
+	<string name="There_are_no_email_clients_installed.">No hay clientes de correo instalados.</string>
+    
+	
+     <string name="Paste_Data">Pegar datos</string>
+    <string name="paste">pegar</string>
+    <string name="home">casa</string>
+    <string name="up">hasta</string>
+    <string name="Back">espalda</string>
+    <string name="Next">próximo</string>
+    <string name="Search">Buscar</string>
+    <string name="Faves">Faves</string>
+    <string name="Create">crear</string>
+    <string name="Sort">ordenar</string>
+    <string name="Refresh">refrescar</string>
+    <string name="Details_Folder">Detalles</string>
+    <string name="Open_Folder">Abierto</string>
+    <string name="Copy_Folder">copie </string>
+    <string name="Delete_Folder">borrar </string>
+    <string name="Move_Folder">Move(Cut) </string>
+    <string name="Rename_Folder">rebautizar</string>
+    <string name="Bookmark">marcador</string>
+    <string name="Zip_Folder">Carpeta Zip</string>
+    <string name="Paste_Folder">Pegar en la carpeta</string>
+    <string name="Name">nombre:</string>
+    <string name="path">camino:</string>
+    <string name="size">tamaño:</string>
+    <string name="Files">Archivos:</string>
+    <string name="Folder">carpeta:</string>
+    <string name="Items">Artículos:</string>
+    <string name="Modified">Modificado:</string>
+    <string name="Permissions">Permisos:</string>
+    <string name="Search_for_a_file"> Buscar un archivo</string>
+    <string name="Sort_Completed">Ordenar Completado ...</string>
+    <string name="Created">creado</string>
+    <string name="New_folder_was_not_created">Nueva carpeta no se crea</string>
+    <string name="Create_New_Directory"> Crear nuevo directorio</string>
+    <string name="items">artículos</string>
+    <string name="Extract_here">Extraer aquí</string>
+    <string name="Compress_here">Comprimir aquí</string>
+    <string name="Share">participación</string>
+    <string name="Add_Bookmark">Añadir a Favoritos</string>
+    <string name="Bookmark_Added">Bookmark Alta ...</string>
+    <string name="No_Bookmark_Added">No Bookmark Alta ..</string>
+    <string name="bookmarklist">Bookmark List</string>
+    <string name="Bookmark_name_updated">Bookmark nombre actualizando ...</string>
+    <string name="Bookmark_Already_done">Bookmark Ya está hecho ...</string>
+    <string name="Searching"> Buscando ...</string>
+    <string name="Searching_current_file_system">Búsqueda actual sistema de archivos ...</string>
+    <string name="Copying">Copiado</string>
+    <string name="Copying_file"> Copiando archivos ...</string>
+    <string name="Unzipping">  Descomprimir</string>
+    <string name="Unpacking_zip_file_please_wait"> Desembalaje archivo zip por favor espere ...</string>
+    <string name="Zipping">  Comprimir</string>
+    <string name="Zipping_folder"> Comprimir carpeta ...</string>
+    <string name="Deleting">Eliminación</string>
+    <string name="Deleting_files"> Eliminar archivos ...</string>
+    <string name="Could_not_find">No se pudo encontrar </string>
+    <string name="Found">fundar</string>
+    <string name="files"> archivo (s)</string>
+    <string name="Copy_pasted_failed">Copie fallado pegado</string>
+    <string name="File_successfully_copied_and_pasted"> Archivo copiado y pegado con éxito</string>
+    <string name="Cannot_read_folder_due_to_permissions"> No se puede leer la carpeta debido a los permisos</string>
+    <string name="Sorry_could_not_find_a_pdf_viewer">  Lo sentimos, pero no pudo encontrar un visor de pdf</string>
+    <string name="Sorry_could_not_find_a_Document_viewer">Lo sentimos, pero no pudo encontrar un visor de documentos</string>
+    <string name="Sorry_could_not_find_a_HTML_viewer"> Lo sentimos, pero no pudo encontrar un visor HTML</string>
+    <string name="Sorry_could_not_find_anything"> Lo sentimos, pero no hemos podido encontrar nada </string>
+    <string name="to_open">para abrir </string>
+    <string name="Press_back_again_to_quit"> Pulse de nuevo para salir.</string>
+    <string name="Multi_select_is_now_off"> Multi-select ahora está apagado</string>
+    <string name="Please_enter_the_name">Por favor, introduzca el nombre</string>
+    <string name="Empty">vacío</string>
+    <string name="Select_option">Seleccione la opción</string>
+    <string name="Edit">editar</string>
+    <string name="Delete">borrar</string>
+    <string name="Rename">rebautizar</string>
+    <string name="New_Name">Nuevo nombre</string>
+    <string name="Edit_Bookmark_Name">Editar Bookmark Nombre</string>
+    <string name="Remove_Bookmark">Retire Bookmark</string>
+    <string name="Remove_Bookmark_Successfully">Retire Bookmark éxito</string>
+    <string name="Bookmark_Confimation">Retire Bookmark Confirmación</string>
+    <string name="Are_you_sure_you_want_Bookmark">¿Está seguro de que desea eliminar Bookmark?</string>
+    <string name="Deleted_Bookmark_Successfully">Retire Bookmark éxito</string>
+    <string name="Delete_Confimation">Eliminar confirmación</string>
+    <string name="Are_you_sure_you_want_delete">¿Está seguro de que desea eliminar?</string>
+    <string name="Deleted_Successfully">eliminados con éxito</string>
+    <string name="hidden"> oculto</string>
+
+    <!--
+          ***************************
+             Strings for the 'Compressing' and 'Extracting' feature
+          ***************************
+    -->
+    <string name="compressing_success">Artículo comprimido con éxito</string>
+    <string name="compressing_error">No se puede comprimir el elemento</string>
+    <string name="compress_into_archive">Comprimir en archivo:</string>
+    <string name="extracting_success">Artículo extraído con éxito</string>
+    <string name="extracting_error">No se pudo extraer el elemento</string>
+    <string name="extract_into_folder">Se extrae en la carpeta:</string>
+    <string name="extract_title">Seleccionar carpeta para extraer en</string>
+    <string name="extract_button">Extraer aquí</string>
+    <string name="extracting">Extrayendo archivos ...</string>
+    <string name="compressing">La compresión de archivos ...</string>
+    <string name="warning_overwrite">Existe archivo%s. ¿Desea sobreescribirlo?</string>
+    <string name="change_file_extension">¿Quieres cambiar la extensión de archivo?</string>
+    <string name="deletefail">No se pudo eliminar el archivo</string>
+    
+    
+    
+    <string name="MoreApps">Más aplicaciones</string>
+    
+     <string name="ContactUS">contáctenos</string>
+    <string name="Contact_from">Contacte desde</string>
+    
+      <string name="Share_App">Compartir App</string>
+        <string name="Share_Andoird">androide</string>
+       <string name="Share_Application">aplicación</string>
+    <string name="Share_App_subject">"me gusta"</string>
+    <string name="Share_App_Body_top">"
+Hola,
+me gusta "</string>
+    <string name="Share_App_Body_middle">" por AppAspect Technologies Pvt. Ltd. Por favor, descargue de la siguiente enlace
+    "</string>
+    <string name="Share_App_Body_bottom">"
+        gracias"</string>
+
+</resources>

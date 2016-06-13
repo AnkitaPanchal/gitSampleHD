@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+     <string name="app_name">ファイルマネージャHD（エクスプローラ）</string>
+     
+     <string name="Explorer">(エクスプローラ)</string>
+   
+    
+    
+     <string name="menu_settings">設定</string>
+    <string name="About_US">私たちについて</string>
+    <string name="Info">情報</string>
+    <string name="No_Internet_Connection">いいえ、インターネット接続</string>
+    <string name="OK">[OK]を</string>
+  	<string name="Send">送信</string>
+    <string name="Cancel">キャンセル</string>
+    <string name="Rate_This_App">レートこのアプリケーション</string>
+
+    <string name="action_save">保存</string>
+	<string name="File_has_been_Saved">ファイルが保存されました</string>
+	<string name="Could_not_save_the_file">ファイルを保存できませんでした</string>
+	<string name="There_are_no_email_clients_installed.">インストールさ電子メールクライアントはありません。</string>
+    
+     <string name="Paste_Data">データを貼り付ける</string>
+    <string name="paste">貼り付ける</string>
+    <string name="home">ホーム</string>
+    <string name="up">アップ</string>
+    <string name="Back">バック</string>
+    <string name="Next">次</string>
+    <string name="Search">検索</string>
+    <string name="Faves">お気に入り</string>
+    <string name="Create">作る</string>
+    <string name="Sort">ソート</string>
+    <string name="Refresh">リフレッシュ</string>
+    <string name="Details_Folder">細部</string>
+    <string name="Open_Folder">オープン </string>
+    <string name="Copy_Folder">コピー</string>
+    <string name="Delete_Folder">削除</string>
+    <string name="Move_Folder">移動（カット） </string>
+    <string name="Rename_Folder">リネーム </string>
+    <string name="Bookmark">ブックマーク</string>
+    <string name="Zip_Folder">ZIPフォルダ</string>
+    <string name="Paste_Folder">フォルダに貼り付け</string>
+    <string name="Name">名前:</string>
+    <string name="path">パス:</string>
+    <string name="size">サイズ:</string>
+    <string name="Files">ファイル:</string>
+    <string name="Folder">フォルダ:</string>
+    <string name="Items">アイテム:</string>
+    <string name="Modified">修正された:</string>
+    <string name="Permissions">パーミッション:</string>
+    <string name="Search_for_a_file">ファイルの検索</string>
+    <string name="Sort_Completed">並び替えは完了...</string>
+    <string name="Created">作成</string>
+    <string name="New_folder_was_not_created">新しいフォルダは作成されませんでした</string>
+    <string name="Create_New_Directory"> 新しいディレクトリを作成</string>
+    <string name="items">アイテム</string>
+    <string name="Extract_here">ここで抽出</string>
+    <string name="Compress_here">ここで圧縮</string>
+    <string name="Share">シェア</string>
+    <string name="Add_Bookmark">ブックマークの追加</string>
+    <string name="Bookmark_Added">ブックマーク追加しました...</string>
+    <string name="No_Bookmark_Added">いいえブックマーク追加されません..</string>
+    <string name="bookmarklist">リストをブックマーク</string>
+    <string name="Bookmark_name_updated">ブックマーク名が更新され...</string>
+    <string name="Bookmark_Already_done">既に行わブックマーク...</string>
+    <string name="Searching"> 検索しています...</string>
+    <string name="Searching_current_file_system">  現在のファイルシステムを検索しています...</string>
+    <string name="Copying">複写</string>
+    <string name="Copying_file"> ファイルのコピー...</string>
+    <string name="Unzipping">解凍する</string>
+    <string name="Unpacking_zip_file_please_wait">  zipファイルを解凍すると、お待ちください...</string>
+    <string name="Zipping">  ビュン</string>
+    <string name="Zipping_folder"> フォルダをビュン...</string>
+    <string name="Deleting">  削除</string>
+    <string name="Deleting_files"> ファイルの削除...</string>
+    <string name="Could_not_find">見つけることができませんでした</string>
+    <string name="Found"> 発見</string>
+    <string name="files"> ファイル（複数可）</string>
+    <string name="Copy_pasted_failed">貼り付け失敗をコピー</string>
+    <string name="File_successfully_copied_and_pasted">  正常にコピーと貼り付けファイル</string>
+    <string name="Cannot_read_folder_due_to_permissions"> パーミッションが原因でフォルダを読み取ることができません</string>
+    <string name="Sorry_could_not_find_a_pdf_viewer">  申し訳ありませんが、PDFビューアを見つけることができませんでし</string>
+    <string name="Sorry_could_not_find_a_Document_viewer">  申し訳ありませんが、ドキュメントビューアを見つけることができませんでし</string>
+    <string name="Sorry_could_not_find_a_HTML_viewer"> 申し訳ありませんが、HTMLビューアを見つけることができませんでした</string>
+    <string name="Sorry_could_not_find_anything"> 申し訳ありませんが、何かを見つけることができませんでした </string>
+    <string name="to_open"> 開きます  </string>
+    <string name="Press_back_again_to_quit"> 終了するには再び押します。</string>
+    <string name="Multi_select_is_now_off"> 複数選択は現在オフになっている</string>
+    <string name="Please_enter_the_name">名前を入力してください</string>
+    <string name="Empty">空の</string>
+    <string name="Select_option">オプションを選択してください</string>
+    <string name="Edit">編集</string>
+    <string name="Delete">削除</string>
+    <string name="Rename">リネーム</string>
+    <string name="New_Name">新しい名前</string>
+    <string name="Edit_Bookmark_Name">ブックマーク名を編集</string>
+    <string name="Remove_Bookmark">ブックマークを削除します</string>
+    <string name="Remove_Bookmark_Successfully">削除に成功ブックマーク</string>
+    <string name="Bookmark_Confimation">確認をブックマーク削除</string>
+    <string name="Are_you_sure_you_want_Bookmark">あなたがブックマークを削除してもよろしいですか？</string>
+    <string name="Deleted_Bookmark_Successfully">削除に成功ブックマーク</string>
+    <string name="Delete_Confimation">確認を削除する</string>
+    <string name="Are_you_sure_you_want_delete">あなたが削除してもよろしいですか？</string>
+    <string name="Deleted_Successfully">正常に削除され</string>
+    <string name="hidden">隠された</string>
+
+    <!--
+          ***************************
+             Strings for the 'Compressing' and 'Extracting' feature
+          ***************************
+    -->
+    <string name="compressing_success">アイテムが正常に圧縮された</string>
+    <string name="compressing_error">項目を圧縮できませんでした</string>
+    <string name="compress_into_archive">アーカイブに圧縮:</string>
+    <string name="extracting_success">項目が正常に抽出</string>
+    <string name="extracting_error">項目を抽出できませんでした</string>
+    <string name="extract_into_folder">フォルダに解凍:</string>
+    <string name="extract_title">に抽出するフォルダを選択</string>
+    <string name="extract_button">ここで抽出</string>
+    <string name="extracting">ファイルの解凍...</string>
+    <string name="compressing">ファイルを圧縮...</string>
+    <string name="warning_overwrite">ファイル％sが存在します。あなたはそれを上書きしますか？</string>
+    <string name="change_file_extension">には、ファイルの拡張子を変更しますか？</string>
+    <string name="deletefail">ファイルを削除できませんでした</string>
+    
+    
+   <string name="MoreApps">その他のアプリ</string>
+    
+     <string name="ContactUS">お問い合わせ</string>
+    
+    <string name="Contact_from">から連絡</string>
+    
+ <string name="Share_App">共有アプリ</string>
+   <string name="Share_Andoird">アンドロイド</string>
+       <string name="Share_Application">アプリケーション</string>
+    <string name="Share_App_subject">"私は好き"</string>
+    <string name="Share_App_Body_top">"
+こんにちは、
+私は好き "</string>
+    <string name="Share_App_Body_middle">" AppAspect Technologies Pvt. Ltd. によって。次のリンクからダウンロードしてください
+    "</string>
+    <string name="Share_App_Body_bottom">"
+        感謝"</string>
+
+ 
+
+</resources>
